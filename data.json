@@ -13,15 +13,15 @@
         "seconds": 3
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": true,
         "description": {
-            "_": "<b>Bomber</b> 1.28 patch #2"
+            "_": "<b>Bomber</b> 1.28<br>- Трава стала зеленее<br>- Небо синее"
         },
         "directUrl": "",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/app_cloud_bot?start=90",
-        "versionCode": 90
+        "telegramUrl": "https://t.me/app_cloud_bot?start=93",
+        "versionCode": 93
     },
     "stories": [
         {
