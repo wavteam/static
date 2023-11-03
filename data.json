@@ -10,7 +10,7 @@
         },
         "image": "https://github.com/dmitrijkotov634/Inline2/assets/53375304/2c97b37d-cc6b-4677-8ec3-541f8f0aa574",
         "url": "https://t.me/+QjdvbqsT5xcxN2Uy",
-        "seconds": 6
+        "seconds": 3
     },
     "updates": {
         "important": true,
@@ -18,7 +18,7 @@
         "description": {
             "_": "<b>Bomber</b> 1.28 patch #2"
         },
-        "directUrl": "https://gitlab.com/retrocat/bomber-static/-/raw/main/81.apk?inline=false",
+        "directUrl": "",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/app_cloud_bot?start=90",
         "versionCode": 90
