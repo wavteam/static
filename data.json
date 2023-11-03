@@ -14,9 +14,9 @@
     },
     "updates": {
         "important": false,
-        "allowDirect": true,
+        "allowDirect": false,
         "description": {
-            "_": "<b>Bomber</b> 1.28<br>- Трава стала зеленее<br>- Небо синее"
+            "_": "<b>Bomber</b> 1.28<br><br>- Трава стала зеленее<br>- Небо синее"
         },
         "directUrl": "",
         "onlyDirect": false,
