@@ -13,7 +13,7 @@
         "seconds": 3
     },
     "updates": {
-        "important": false,
+        "important": true,
         "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.28<br><br>- Трава стала зеленее<br>- Небо синее"
