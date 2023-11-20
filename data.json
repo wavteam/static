@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "active": false,
+        "active": true,
         "button": {
             "_": "Попробовать"
         },
