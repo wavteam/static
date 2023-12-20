@@ -24,7 +24,7 @@
         "versionCode": 99
     },
     "config": {
-        "donateAvailable": true
+        "donateAvailable": false
     }
     "stories": [
         {
