@@ -43,6 +43,7 @@
         },
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "maxVersionCode": 99,
             "pages": [
                 {
                     "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/1.png?ref_type=heads&inline=false"
