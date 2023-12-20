@@ -23,6 +23,9 @@
         "telegramUrl": "https://t.me/app_cloud_bot?start=99",
         "versionCode": 99
     },
+    "config": {
+        "donateAvailable": true
+    }
     "stories": [
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
