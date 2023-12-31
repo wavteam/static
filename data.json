@@ -1,16 +1,16 @@
 {
     "advertising": {
-        "active": false,
+        "active": true,
         "button": {
-            "_": "Попробовать"
+            "_": "👉 Итоги года"
         },
         "html": true,
         "description": {
-            "_": "<b>ChatGPT бесплатно в телеграм!</b><br>Умельцы объединили Midjourney и Chatgpt в одного бота. Он рисует шедевры, сдает экзамены в Гарвард и знает в миллион раз больше анекдотов, чем твой батя. Теперь у него есть свой канал, там интересно"
+            "_": "🎄🎄🎄"
         },
-        "image": "https://github.com/dmitrijkotov634/Inline2/assets/53375304/2c97b37d-cc6b-4677-8ec3-541f8f0aa574",
-        "url": "https://t.me/+QjdvbqsT5xcxN2Uy",
-        "seconds": 3
+        "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
+        "url": "https://t.me/androidsmsbomber/1970",
+        "seconds": 1
     },
     "updates": {
         "important": true,
