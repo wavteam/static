@@ -29,6 +29,15 @@
     }
     "stories": [
         {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024p.jpg?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024.jpg?ref_type=heads&inline=false"
+                    "caption": "<a href=\"https://t.me/androidsmsbomber/1970\">🎄2024</a>"
+                }
+            ]
+        },
+        {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
             "pages": [
                 {
