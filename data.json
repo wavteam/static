@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "active": true,
+        "active": false,
         "button": {
             "_": "Итоги года"
         },
@@ -13,7 +13,7 @@
         "seconds": 4
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.29 (99)<br><br>- Исправлен спам Telegram авторизациями"
