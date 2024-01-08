@@ -18,7 +18,7 @@
         "description": {
             "_": "<b>Bomber</b> 1.29 (99)<br><br>- Исправлен спам Telegram авторизациями"
         },
-        "directUrl": "",
+        "directUrl": " ",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/app_cloud_bot?start=99",
         "versionCode": 99
