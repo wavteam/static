@@ -13,19 +13,19 @@
         "seconds": 4
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": false,
         "description": {
-            "_": "<b>Bomber</b> 1.29 (99)<br><br>- Исправлен спам Telegram авторизациями"
+            "_": "<b>Bomber</b> 1.30<br><br><a href=\"https://t.me/androidsmsbomber\">Подробнее в официальном Telegram канале</a>"
         },
-        "directUrl": " ",
+        "directUrl": "",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/app_cloud_bot?start=99",
-        "versionCode": 99
+        "telegramUrl": "https://t.me/app_cloud_bot?start=100",
+        "versionCode": 100
     },
     "config": {
-        "donateAvailable": false,
-        "sourceCodeAvailable": false
+        "donateAvailable": true,
+        "sourceCodeAvailable": true
     }
     "stories": [
         {
