@@ -27,9 +27,9 @@
         "donateAvailable": true,
         "sourceCodeAvailable": true
     }
-    "stories": [
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024p.jpg?ref_type=heads&inline=false",
+            "maxVersionCode": 1,
             "pages": [
                 {
                     "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024.jpg?ref_type=heads&inline=false",
