@@ -13,15 +13,15 @@
         "seconds": 4
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": false,
         "description": {
-            "_": "<b>Bomber</b> 1.30<br><br>Добавлено 20 сервисов для 🇷🇺"
+            "_": "<b>Bomber</b> 1.30 (105)<br><br>• Удалены нерабочие сервисы<br>• Увеличена скорость атаки<br>• Оптимизация и исправление ошибок"
         },
         "directUrl": "",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/app_cloud_bot?start=100",
-        "versionCode": 100
+        "telegramUrl": "https://t.me/app_cloud_bot?start=105",
+        "versionCode": 105
     },
     "config": {
         "donateAvailable": true,
