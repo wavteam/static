@@ -8,7 +8,7 @@
         "description": {
             "_": "❤️ Что вы хотите видеть в следующих обновлениях?"
         },
-        "image": "",
+        "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
         "url": "https://t.me/androidsmsbomber/2083",
         "seconds": 2
     },
