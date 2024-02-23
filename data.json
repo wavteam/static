@@ -1,16 +1,16 @@
 {
     "advertising": {
-        "active": false,
+        "active": true,
         "button": {
-            "_": "Итоги года"
+            "_": "Предложить"
         },
         "html": true,
         "description": {
-            "_": "🎄 <strong>Поздравляем вас с наступающим 2024 годом!</strong>"
+            "_": "❤️ Что вы хотите видеть в следующих обновлениях?"
         },
-        "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
-        "url": "https://t.me/androidsmsbomber/1970",
-        "seconds": 4
+        "image": "",
+        "url": "https://t.me/androidsmsbomber/2083",
+        "seconds": 2
     },
     "updates": {
         "important": true,
