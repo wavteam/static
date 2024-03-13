@@ -13,7 +13,7 @@
         "seconds": 2
     },
     "updates": {
-        "important": false,
+        "important": true,
         "allowDirect": true,
         "description": {
             "_": "<b>Bomber</b> 1.31<br><br>• Удалены нерабочие сервисы<br>• Добавлены пару новых сервисов для +7, +380<br>• Оптимизация и исправление ошибок"
