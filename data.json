@@ -14,7 +14,7 @@
     },
     "updates": {
         "important": true,
-        "allowDirect": true,
+        "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.31<br><br>• Удалены нерабочие сервисы<br>• Добавлены пару новых сервисов для +7, +380<br>• Оптимизация и исправление ошибок"
         },
