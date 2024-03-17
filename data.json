@@ -1,16 +1,16 @@
 {
     "advertising": {
-        "active": false,
+        "active": true,
         "button": {
-            "_": "Предложить"
+            "_": "ВСТУПИТЬ"
         },
         "html": true,
         "description": {
-            "_": "❤️ Что вы хотите видеть в следующих обновлениях?"
+            "_": "<strong>Успей вступить в закрытый телеграмм канал для хакеров!</strong>"
         },
-        "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
-        "url": "https://t.me/androidsmsbomber/2083",
-        "seconds": 2
+        "image": "https://github.com/wavteam/static/assets/53375304/37afa967-f1ec-4a6c-99b5-c2716f6c621e",
+        "url": "https://t.me/+sB_lE-kUebw5NTNi",
+        "seconds": 4
     },
     "updates": {
         "important": true,
