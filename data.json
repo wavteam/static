@@ -10,7 +10,7 @@
         },
         "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/d77af92119154a9ba20ed23d780a40c3.jpg?ref_type=heads&inline=false",
         "url": "https://t.me/+sB_lE-kUebw5NTNi",
-        "seconds": 4
+        "seconds": 2
     },
     "updates": {
         "important": true,
@@ -29,16 +29,11 @@
     }
     "stories": [
         {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "preview": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/5c46bdd2-8b49-4593-ad94-f76c836bb4e9",
             "pages": [
                 {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/da3ed4e6-872b-49f4-bfde-1573dc7401f8",
+                    "caption": "Это лучшие телеграмм боты для поиска информации о человеке в 2024 году ...<a href=\"https://t.me/sec_wrld/20\">читать</a>"
                 }
             ]
         },
