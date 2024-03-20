@@ -37,6 +37,20 @@
                 }
             ]
         },
+         {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                }
+            ]
+        },
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "maxVersionCode": 99,
