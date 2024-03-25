@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":true,
+        "active":false,
         "button":{
             "_":"ВСТУПИТЬ"
         },
@@ -30,6 +30,7 @@
     "stories":[
         {
             "preview":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/5c46bdd2-8b49-4593-ad94-f76c836bb4e9",
+            "minVersionCode":999,
             "pages":[
                 {
                     "image":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/da3ed4e6-872b-49f4-bfde-1573dc7401f8",
