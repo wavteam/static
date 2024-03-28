@@ -1,16 +1,16 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "button":{
-            "_":"ВСТУПИТЬ"
+            "_":"Подписаться"
         },
         "html":true,
         "description":{
-            "_":"<strong>Успей вступить в закрытый телеграмм канал для хакеров!</strong>"
+            "_":"<strong>👨‍💻Успей вступить в закрытый телеграмм канал для хакеров!</strong>"
         },
-        "image":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/d77af92119154a9ba20ed23d780a40c3.jpg?ref_type=heads&inline=false",
-        "url":"https://t.me/+sB_lE-kUebw5NTNi",
-        "seconds":2
+        "image":"https://github.com/wavteam/static/assets/53375304/592e8e5a-2d8e-4f9f-a20a-76243bd3e706",
+        "url":"https://t.me/+FJqjgCLW-Pk2OTky",
+        "seconds":5
     },
     "updates":{
         "important":true,
