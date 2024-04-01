@@ -1,1 +1,1 @@
-{"method": "POST", "url": "https://", "json": {"phone": "{phone:+7 (***) ***-**-**}"}, "headers": {}}
+{"method": "POST", "url": "https://google.com", "json": {"phone": "{phone:+7 (***) ***-**-**}"}, "headers": {}}

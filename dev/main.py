@@ -1,3 +1,4 @@
+import argparse
 import json
 import jsoneditor
 import logging
@@ -54,7 +55,7 @@ def format_by_pattern(input_string, phone):
     return new_string.replace("{full_phone}", str(phone)).replace("{phone}", phone.phone)
 
 
-def process_request(request):
+def process_request(request, phone):
     url = format_by_pattern(request["url"], phone)
     logging.info("URL: %s", url)
 
@@ -108,18 +109,22 @@ def process_request(request):
         logging.error("Request failed: %s", str(e))
 
 
-def on_result(result):
+def process_service(service, phone):
+    if "requests" in service:
+        for index, request in enumerate(service["requests"]):
+            logging.info("Request #%s", index)
+            process_request(request, phone)
+    else:
+        process_request(service, phone)
+
+
+def on_result(result, filename, phone):
     print(json.dumps(result))
 
-    with open("service.json", "w", encoding="UTF-8") as file:
+    with open(filename, "w", encoding="UTF-8") as file:
         file.write(json.dumps(result))
 
-    if "requests" in result:
-        for index, request in enumerate(result["requests"]):
-            logging.info("Request #%s", index)
-            process_request(request)
-    else:
-        process_request(result)
+    process_service(result, phone)
 
 
 @dataclass
@@ -131,16 +136,24 @@ class Phone:
         return self.country_code + self.phone
 
 
-country_code = input("Enter country code (7): ")
+parser = argparse.ArgumentParser(description='Process JSON file with requests.')
+parser.add_argument('--file', type=str, help='Path to the JSON file', default='service.json')
+parser.add_argument('--country-code', type=str, help='Country code (default: 7)', default='7')
+parser.add_argument('--phone', type=str, help='Phone number')
+parser.add_argument('-e', '--edit', action='store_true', help='Run editor')
 
-if not country_code.strip():
-    country_code = "7"
+args = parser.parse_args()
 
-phone = Phone(
-    country_code,
-    input("Enter phone number: ")
-)
+country_code = args.country_code.strip() if args.country_code.strip() else "7"
 
-logging.info(phone)
+phone_number = args.phone.strip() if args.phone else input("Enter phone number: ")
 
-jsoneditor.editjson(base, callback=on_result)
+phone = Phone(country_code, phone_number)
+
+with open(args.file, "r", encoding="UTF-8") as file:
+    base = json.loads(file.read())
+
+if args.edit:
+    jsoneditor.editjson(base, callback=lambda result: on_result(result, args.file, phone))
+else:
+    process_service(base, phone)
