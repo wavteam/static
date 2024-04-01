@@ -15,9 +15,6 @@ logging.basicConfig(
     format='%(levelname)s: %(message)s'
 )
 
-with open("service.json", "r", encoding="UTF-8") as file:
-    base = json.loads(file.read())
-
 phone_pattern_legacy = re.compile(r'\{formatted_phone:(.*)}')
 phone_pattern = re.compile(r'\{phone:([^}]*)}')
 
