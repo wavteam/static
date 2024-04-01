@@ -56,7 +56,6 @@ def format_by_pattern(input_string, phone):
 
 
 def on_result(result):
-    global params
     print(json.dumps(result))
 
     for index, request in enumerate(result["requests"]):
