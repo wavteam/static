@@ -1,15 +1,1 @@
-{
-    "phone_codes": [
-        7
-    ],
-    "requests": [
-        {
-            "method": "POST",
-            "url": "https://",
-            "json": {
-                "phone": "{phone:+7 (***) ***-**-**}"
-            },
-            "headers": {}
-        }
-    ]
-}
+{"method": "POST", "url": "https://", "json": {"phone": "{phone:+7 (***) ***-**-**}"}, "headers": {}}
