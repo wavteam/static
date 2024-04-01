@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "button":{
             "_":"Спасибо"
         },
@@ -8,9 +8,9 @@
         "description":{
             "_":"c первым апреля"
         },
-        "image":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/c679c2b1-46ee-44ce-8c2f-34b8e123cd8e",
+        "image":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/6bd66959-84e4-4012-bd12-2f16611bba3e",
         "url":"https://t.me/androidsmsbomber",
-        "seconds":10000000
+        "seconds":1
     },
     "updates":{
         "important":true,
