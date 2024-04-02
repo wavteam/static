@@ -13,15 +13,15 @@
         "seconds":1
     },
     "updates":{
-        "important":true,
+        "important":false,
         "allowDirect":false,
         "description":{
-            "_":"<b>Bomber</b> 1.31<br><br>• Удалены нерабочие сервисы<br>• Добавлены пару новых сервисов для +7, +380<br>• Оптимизация и исправление ошибок"
+            "_":"<b>Bomber</b> 1.31 (110)<br><br>• Оптимизация и исправление ошибок<br>• Больше инструментов для разработчиков сервисов"
         },
         "directUrl":"https://gitlab.com/retrocat/bomber-static/-/raw/main/app-release.apk?ref_type=heads&inline=false",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=107",
-        "versionCode":107
+        "versionCode":110
     },
     "config":{
         "donateAvailable":true,
