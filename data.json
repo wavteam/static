@@ -13,7 +13,7 @@
         "seconds":1
     },
     "updates":{
-        "important":false,
+        "important":true,
         "allowDirect":false,
         "description":{
             "_":"<b>Bomber</b> 1.31 (110)<br><br>• Оптимизация и исправление ошибок<br>• Больше инструментов для разработчиков сервисов"
