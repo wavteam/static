@@ -1,16 +1,16 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "button":{
-            "_":"Спасибо"
+            "_":"Подписаться"
         },
         "html":true,
         "description":{
-            "_":"c первым апреля"
+            "_":"🔑 Лучший телеграм канал для хакеров…"
         },
-        "image":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/6bd66959-84e4-4012-bd12-2f16611bba3e",
-        "url":"https://t.me/androidsmsbomber",
-        "seconds":1
+        "image":"https://github.com/wavteam/static/assets/53375304/c8b87c6c-2fb9-464c-a1f1-0ff06fd89b1b",
+        "url":"https://t.me/+wlaL4f5Ovcg5N2Yy",
+        "seconds":5
     },
     "updates":{
         "important":true,
