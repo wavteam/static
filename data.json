@@ -13,13 +13,13 @@
         "seconds":5
     },
     "updates":{
-        "important":true,
+        "important":false,
         "allowDirect":false,
         "description":{
             "_":"<b>Bomber</b> 1.31 (110)<br><br>• Оптимизация и исправление ошибок<br>• Больше инструментов для разработчиков сервисов"
         },
-        "directUrl":"https://gitlab.com/retrocat/bomber-static/-/raw/main/app-release.apk?ref_type=heads&inline=false",
-        "onlyDirect":false,
+        "directUrl":"https://gitlab.com/retrocat/bomber-static/-/raw/main/1101.apk?ref_type=heads&inline=false",
+        "onlyDirect":true,
         "telegramUrl":"https://t.me/app_cloud_bot?start=110",
         "versionCode":110
     },
