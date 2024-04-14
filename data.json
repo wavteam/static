@@ -2,15 +2,15 @@
     "advertising":{
         "active":true,
         "button":{
-            "_":"Закрыть рекламу (и открыть канал)"
+            "_":"Закрыть рекламу (и открыть лучший канал)"
         },
         "html":true,
         "description":{
-            "_":"<font color=\"red\">Лучший телеграмм канал</font><br><small><font color=\"#FF8000\">Лучший телеграмм канал</font><br><small><font color=\"#FFFF00\">Лучший телеграмм канал</font><br><small><font color=\"#80FF00\">Лучший телеграмм канал</font><br><small><font color=\"#00FFFF\">Лучший телеграмм канал</font><br><small><font color=\"#8000FF\">Лучший телеграмм канал</font><br><big><big><big><i>- Это не реклама</i><small><small><small>(это рекомендация)"
+            "_":"<big><big><big><font color=\"red\">Лучший телеграмм канал</font><br><small><font color=\"#FF8000\">Лучший телеграмм канал</font><br><small><font color=\"#FFFF00\">Лучший телеграмм канал</font><br><small><font color=\"#80FF00\">Лучший телеграмм канал</font><br><small><font color=\"#00FFFF\">Лучший телеграмм канал</font><br><small><font color=\"#8000FF\">Лучший телеграмм канал</font><br><br><big><big><big><i>- Это не реклама</i><small><small>(это рекомендация)"
         },
         "image":"https://github.com/wavteam/static/assets/53375304/e248a1e9-6e2d-4a68-96cf-5725379f442b",
         "url":"https://t.me/+GztW-BYuUzo0MmUy",
-        "seconds":5
+        "seconds":1
     },
     "updates":{
         "important":true,
