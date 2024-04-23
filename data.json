@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "button":{
             "_":"Закрыть рекламу (и открыть лучший Telegram канал)"
         },
