@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":true,
+        "active":false,
         "activeUnmissable":true,
         "button":{
             "_":"Открыть канал"
