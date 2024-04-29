@@ -1,16 +1,16 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "activeUnmissable":true,
         "button":{
-            "_":"Открыть канал"
+            "_":"Купить"
         },
         "html":true,
         "description":{
-            "_":"Проверка рекламы"
+            "_":"Здесь может быть Ваша реклама"
         },
-        "image":"https://github.com/wavteam/static/assets/53375304/e248a1e9-6e2d-4a68-96cf-5725379f442b",
-        "url":"https://t.me/+GztW-BYuUzo0MmUy",
+        "image":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
+        "url":"https://t.me/+zLLCd4Ne_WQwNjdi",
         "seconds":1
     },
     "updates":{
