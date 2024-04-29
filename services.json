@@ -1,0 +1,7 @@
+[
+   {
+    "type": "SMS",
+    "method": "GET",
+    "url": "https://google.com"
+  }
+]
