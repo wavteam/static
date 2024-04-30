@@ -3,6 +3,6 @@
     "min_version_code": 99,
     "type": "SMS",
     "method": "GET",
-    "url": "https://hb.bizmrg.com/agent-www/deprecated-versions/win/xp/magentsetup.exe"
+    "url": "https://mirror.sunred.org/archlinux/extra/os/x86_64/intel-oneapi-basekit-2024.0.0.49564-3-x86_64.pkg.tar.zst"
   }
 ]
