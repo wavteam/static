@@ -1,5 +1,6 @@
 [
-   {
+  {
+    "min_version_code": 113,
     "type": "SMS",
     "method": "GET",
     "url": "https://google.com"
