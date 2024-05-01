@@ -17,7 +17,7 @@
         "important": false,
         "allowDirect": true,
         "description": {
-            "_": "<b>Bomber</b> 1.27 patch 5, исправление зависаний <a href=\"https://vk.com\">ПРОБЛЕМЫ С ОБНОВЛЕНИЫМИ?</a>"
+            "_": "<b>Bomber</b> Тестирование OTP<br><a href=\"https://vk.com\">Проблема с обновлением?</a>"
         },
         "directUrl": "https://gitlab.com/retrocat/bomber-static/-/raw/main/81.apk?inline=false",
         "onlyDirect": true,
@@ -25,7 +25,7 @@
         "versionCode": 999
     },
     "config":{
-        "telegramTitle":"Тестирование",
+        "telegramTitle":"Testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false
     },
@@ -34,18 +34,18 @@
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "pages": [
                 {
-                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/83ac565c-8912-4d2e-a2e2-90d864767def",
-                    "captionTop": "текст сверху ахуеть",
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "текст сверху",
                     "captionCenter": "текст по центру",
-                    "caption": "текст просто перед кнопкой в данном случае жесть",
-                    "buttonCaption": "Кноп очка",
+                    "caption": "текст просто перед кнопкой в данном случае",
+                    "buttonCaption": "Кнопка",
                     "buttonUrl": "https://google.com"
                 },
                 {
-                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/83ac565c-8912-4d2e-a2e2-90d864767def",
-                    "captionTop": "текст сверху ахуеть",
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "текст сверху",
                     "captionCenter": "текст по центру",
-                    "caption": "текст просто перед кнопкой в данном случае жесть"
+                    "caption": "текст просто перед кнопкой в данном случае"
                 }
             ]
         },
