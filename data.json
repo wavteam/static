@@ -1,7 +1,7 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":true,
+        "activeUnmissable":false,
         "button":{
             "_":"Купить"
         },
