@@ -1,7 +1,7 @@
 {
     "advertising":{
-        "active":false,
-        "activeUnmissable":true,
+        "active":true,
+        "activeUnmissable":false,
         "button":{
             "_":"Купить"
         },
@@ -23,6 +23,11 @@
         "onlyDirect": true,
         "telegramUrl": "https://t.me/app_cloud_bot?start=_",
         "versionCode": 999
+    },
+    "config":{
+        "telegramTitle":"Тестирование",
+        "donateAvailable":true,
+        "sourceCodeAvailable":false
     },
     "stories": [
         {
