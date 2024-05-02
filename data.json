@@ -1,7 +1,7 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":false,
+        "activeUnmissable":true,
         "button":{
             "_":"✅ Посмотреть"
         },
@@ -11,7 +11,7 @@
         },
         "image":"https://github.com/wavteam/static/assets/53375304/919b390b-aceb-408b-8adc-b034d8800b05",
         "url":"https://t.me/+6JArIXTXOK00YjUx",
-        "seconds":1
+        "seconds":2
     },
     "updates":{
         "important":false,
