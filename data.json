@@ -1,16 +1,16 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":true,
+        "activeUnmissable":false,
         "button":{
-            "_":"Купить"
+            "_":"✅Посмотреть"
         },
         "html":true,
         "description":{
-            "_":"Здесь может быть Ваша реклама"
+            "_":"🔐 Мануалы про взлом закинули сюда"
         },
-        "image":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
-        "url":"https://t.me/+zLLCd4Ne_WQwNjdi",
+        "image":"https://github.com/wavteam/static/assets/53375304/919b390b-aceb-408b-8adc-b034d8800b05",
+        "url":"https://t.me/+6JArIXTXOK00YjUx",
         "seconds":1
     },
     "updates":{
