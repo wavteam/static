@@ -11,10 +11,10 @@
         },
         "image":"https://github.com/wavteam/static/assets/53375304/919b390b-aceb-408b-8adc-b034d8800b05",
         "url":"https://t.me/+6JArIXTXOK00YjUx",
-        "seconds":2
+        "seconds":6
     },
     "updates":{
-        "important":false,
+        "important": true,
         "allowDirect":false,
         "description":{
             "_":"<b>Bomber</b> 1.32<br><br>• Оптимизация и исправление ошибок<br>• Добавлено 15 новых сервисов<br>• Изменен дизайн экрана атаки"
