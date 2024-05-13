@@ -26,7 +26,8 @@
     },
     "config":{
         "donateAvailable":true,
-        "sourceCodeAvailable":false
+        "sourceCodeAvailable":false,
+        "donateUrl":"https://www.donationalerts.com/r/wavecat"
     },
     "stories":[
         {
