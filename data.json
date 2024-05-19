@@ -14,7 +14,6 @@
         "seconds":1
     },
     "updates":{
-        "rewriteAppName":"Bomberr",
         "important":false,
         "allowDirect":false,
         "description":{
@@ -26,6 +25,7 @@
         "versionCode":113
     },
     "config":{
+        "rewriteAppName":"Bomberr",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "donateUrl":"https://www.donationalerts.com/r/wavecat"
