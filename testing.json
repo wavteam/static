@@ -34,6 +34,22 @@
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "pages": [
                 {
+                    "image": "https://github.com/wavteam/static/assets/53375304/c3e94f4a-87e5-45c3-a958-2587d27cae47",
+                    "captionTop": "<h1><font color=\"#2E3130\">Bomber</font></h1>",
+                    "captionCenter": "<h1>1 000 000 пользователей.</h1><br>Именно столько человек провели атаки через наше приложение за последний год.",
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "текст сверху",
+                    "captionCenter": "текст по центру",
+                    "caption": "текст просто перед кнопкой в данном случае"
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "pages": [
+                {
                     "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
                     "captionTop": "текст сверху",
                     "captionCenter": "текст по центру",
