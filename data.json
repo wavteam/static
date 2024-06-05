@@ -25,7 +25,7 @@
         "versionCode":113
     },
     "config":{
-        "rewriteAppName":"Bombr",
+        "rewriteAppName":"Bomber",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "donateUrl":"https://www.donationalerts.com/r/wavecat"
