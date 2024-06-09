@@ -1,7 +1,7 @@
 {
     "advertising":{
-        "active":true,
-        "activeUnmissable":true,
+        "active":false,
+        "activeUnmissable":false,
         "button":{
             "_":"✅ Посмотреть"
         },
@@ -14,7 +14,7 @@
         "seconds":1
     },
     "updates":{
-        "important":false,
+        "important":true,
         "allowDirect":false,
         "description":{
             "_":"<b>Bomber</b> 1.33<br><br>• Оптимизация и исправление ошибок<br>• Добавлено 17 новых сервисов 🇺🇦"
@@ -25,7 +25,6 @@
         "versionCode":113
     },
     "config":{
-        "rewriteAppName":"Bomber",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "donateUrl":"https://www.donationalerts.com/r/wavecat"
