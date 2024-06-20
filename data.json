@@ -37,7 +37,7 @@
                 {
                     "buttonCaption": "Обновить",
                     "buttonUrl": "https://t.me/app_cloud_bot?start=_",
-                    "captionTop": "<h1>Обновление приложения</h1>"
+                    "captionTop": "<h2>Обновление приложения</h2>"
                     "image": "https://github.com/wavteam/static/assets/53375304/44d0b127-76a4-4cd7-a496-92df0648dce9",
                     "caption": "<b><a href=\"https://t.me/app_cloud_bot?start=_\">Пожалуйста, обновите приложение для его стабильной работы.</a></b>"
                 }
