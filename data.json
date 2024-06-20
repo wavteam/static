@@ -32,6 +32,19 @@
     "stories":[
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
+            "maxVersionCode": 103,
+            "pages": [
+                {
+                    "buttonCaption": "Обновить",
+                    "buttonUrl": "https://t.me/app_cloud_bot?start=_",
+                    "captionTop": "<h1>Обновление приложения</h1>"
+                    "image": "https://github.com/wavteam/static/assets/53375304/e55a3c9d-be72-4570-923d-b29b4a0c0",
+                    "caption": "<b><a href=\"https://t.me/app_cloud_bot?start=_\">Пожалуйста, обновите приложение для его стабильной работы.</a></b>"
+                }
+            ]
+        },
+        {
+            "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
             "pages": [
                 {
                     "buttonCaption": "Читать продолжение",
