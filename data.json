@@ -25,7 +25,7 @@
         "versionCode":115
     },
     "config":{
-        "repeatVisible": true,
+        "repeatsVisible": true,
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "donateUrl":"https://www.donationalerts.com/r/wavecat"
