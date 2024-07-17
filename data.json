@@ -33,7 +33,7 @@
     "stories":[
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/78bc91a2-738c-4da1-91f7-56d95763406f",
-            "maxVersionCode": 112,
+            "maxVersionCode": 115,
             "pages": [
                 {
                     "buttonCaption": "Обновить",
@@ -46,7 +46,7 @@
         },
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
-             "minVersionCode": 113,
+             "minVersionCode": 1131,
             "pages": [
                 {
                     "buttonCaption": "Читать продолжение",
