@@ -14,15 +14,15 @@
         "seconds":2
     },
     "updates":{
-        "important":true,
-        "allowDirect":false,
+        "important":false,
+        "allowDirect":true,
         "description":{
-            "_":"<b>Bomber</b> 1.34"
+            "_":"<b>Bomber</b> 1.34 fixes, test"
         },
-        "directUrl":"https://gitlab.com/retrocat/bomber-static/-/raw/main/1101.apk?ref_type=heads&inline=false",
-        "onlyDirect":false,
+        "directUrl":"https://github.com/wavteam/static/raw/main/app-release.apk",
+        "onlyDirect":true,
         "telegramUrl":"https://t.me/app_cloud_bot?start=115",
-        "versionCode":115
+        "versionCode":117
     },
     "config":{
         "repeatsVisible":false,
