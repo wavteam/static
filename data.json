@@ -17,7 +17,7 @@
         "important":false,
         "allowDirect":true,
         "description":{
-            "_":"<b>Bomber</b> 1.34<br><br>Исправление ошибок<br><br><small><i>Обновление без переход в бота</i>"
+            "_":"<b>Bomber</b> 1.34<br><br>Исправление ошибок<br><<small><i>Обновление без переход в бота</i>"
         },
         "directUrl":"https://github.com/wavteam/static/raw/main/app-release.apk",
         "onlyDirect":true,
