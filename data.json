@@ -17,10 +17,10 @@
         "important":false,
         "allowDirect":true,
         "description":{
-            "_":"<b>Bomber</b> 1.34<br><br>- Исправление ошибок<br><<small><i>Обновление без перехода в бота</i>"
+            "_":"<b>Bomber</b> 1.34<br><br>- Исправление ошибок"
         },
         "directUrl":"https://github.com/wavteam/static/raw/main/app-release.apk",
-        "onlyDirect":true,
+        "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=115",
         "versionCode":117
     },
