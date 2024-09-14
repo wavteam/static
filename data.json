@@ -54,7 +54,8 @@
                     "image": "https://github.com/user-attachments/assets/240a6f66-2bc6-4148-9d25-50e2b4ea1ee4",
                     "caption": "<b>Даркнет теперь в Telegram!<br><br>Эти ребята тебя научат взлому любых соц. сетей, краже данных с ПК и как оставаться анонимным в сети!<br><br>Читай далее по кнопке ниже 👇</b>"
                 }
-            ]
+            ],
+              "minVersionCode":9999
         },
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
