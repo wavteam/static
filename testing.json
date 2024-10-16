@@ -28,7 +28,7 @@
         "telegramTitle":"Testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
-        "repeatsVisible":true
+        "repeatsVisible":false
     },
     "stories": [
         {
