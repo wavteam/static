@@ -1,0 +1,143 @@
+{
+    "advertising":{
+        "active":true,
+        "activeUnmissable":true,
+        "button":{
+            "_":"Купить"
+        },
+        "html":true,
+        "description":{
+            "_":"Здесь может быть Ваша реклама"
+        },
+        "image":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
+        "url":"https://t.me/+zLLCd4Ne_WQwNjdi",
+        "seconds":5
+    },
+    "updates": {
+        "important": false,
+        "allowDirect": true,
+        "description": {
+            "_": "<b>Bomber</b> Тестирование OTP<br><a href=\"https://vk.com\">Проблема с обновлением?</a>"
+        },
+        "directUrl": "https://gitlab.com/retrocat/bomber-static/-/raw/main/81.apk?inline=false",
+        "onlyDirect": true,
+        "telegramUrl": "https://t.me/app_cloud_bot?start=_",
+        "versionCode": 999
+    },
+    "config":{
+        "telegramTitle":"Testing",
+        "donateAvailable":true,
+        "sourceCodeAvailable":false,
+        "repeatsVisible":false
+    },
+    "stories": [
+        {
+            "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
+            "minVersionCode": 1131,
+            "pages": [
+                {
+                    "buttonCaption": "Читать продолжение",
+                    "buttonUrl": "https://t.me/+AQEdz9QwaHw3ODA6",
+                    "captionTop": "<h3>Снос телефона через Termux</h3>"
+                    "image": "https://github.com/wavteam/static/assets/53375304/b398d03a-3780-4ee0-8f7a-2243e30edc00",
+                    "caption": "<small><br><br>Доброго времени суток, если хочешь отомстить недалекому обидчику, необязательно иметь хакерские навыки, и пытаться как-то его взломать. Достаточно <b>убедить его ввести парочку команд в Termux, после чего он  пожалеет что связался с вами.</b><br><br>1. Убеждаем жертву скачать и открыть Termux;<br>2. Отправляем жертве следующие команды и просим ввести их по очереди: <br><br><i><a href=\"https://t.me/+AQEdz9QwaHw3ODA6\">***************<br>**********<br>*************<br>***<br>***********</a></i><br><br>3. Минус телефон недруга<br><br><b>Продолжение вы можете увидеть в закрепе по кнопке ниже👇</b><br>"
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://github.com/wavteam/static/assets/53375304/c3e94f4a-87e5-45c3-a958-2587d27cae47",
+                    "captionTop": "<h1><font color=\"#2E3130\">Bomber</font></h1>",
+                    "captionCenter": "<h1>1 000 000 пользователей.</h1><br>Именно столько человек провели атаки через наше приложение за последний год.",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "текст сверху",
+                    "captionCenter": "текст по центру",
+                    "caption": "текст просто перед кнопкой в данном случае",
+                    "buttonCaption": "Кнопка",
+                    "buttonUrl": "https://google.com"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "текст сверху",
+                    "captionCenter": "текст по центру",
+                    "caption": "текст просто перед кнопкой в данном случае"
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/1.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/2.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/3.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/4.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/5.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/6.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/7.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/8.png?ref_type=heads&inline=false"
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/2/preview.jpg?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/2/main.png?ref_type=heads&inline=false",
+                    "captionTop": "<h1><font color=\"#2E3130\">Bomber</font></h1>",
+                    "caption": "<font color=\"#2E3130\"><big><strong>Что нового?</strong><small><br><br>• Добавлено 80 сервисов<br>• Добавлен переключатель для сервисов с последующими агитациями и рекламой</font>"
+                }
+            ]
+        },
+        {
+            "preview": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/e6b6a478-a576-46b7-b868-cf93111eb904",
+            "pages": [
+                {
+                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
+                    "captionTop": "<h1>Bomber</h1>",
+                    "caption": "<big><strong>Что нового?</strong><small><br><br>• Stories<br>• Fixes and improvements"
+                }
+            ]
+        },
+        {
+            "preview": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/80862f63-72cf-4be5-882d-c03d89c1e229",
+            "pages": [
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/a4caa734-c72a-4a04-9a1f-26b132eeea9b"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/83ac565c-8912-4d2e-a2e2-90d864767def",
+                    "captionTop": "<h3>SMS</h3>В зависимости от смартфона заходим в приложения Сообщения и блокируем все возможные SMS сообщения или глушим их. Включаем также защиту от спама (Если какой то из этих опций нет то качаем <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.messaging\">✉️ Google сообщения</a>)"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/3212c5f8-ec5e-4b5b-bca9-d1a11af43dbf",
+                    "captionTop": "<h3>Звонки</h3>Для блокировки звонков можно включить функцию «<strong>Блокировать все неизвестные номера</strong>» или использовать <a href=\"https://f-droid.org/ru/packages/me.lucky.silence/\">Silence</a> для более детальной проверки"
+                }
+            ]
+        }
+    ]
+}
