@@ -32,7 +32,9 @@
         "donateUrl":"https://www.donationalerts.com/r/wavecat",
         "dripAttackPercentage":4,
         "dripAttackTTL":15,
-        "forceSnowfall":true
+        "forceSnowfall":true,
+        "donateVisible":true,
+        "sourceCodeVisible":true
     },
     "stories":[
         {
