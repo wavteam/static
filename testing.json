@@ -25,6 +25,7 @@
         "versionCode": 999
     },
     "config":{
+        "rewriteAppName":"хуембер",
         "telegramTitle":"Testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
