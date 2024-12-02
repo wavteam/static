@@ -31,6 +31,7 @@
         "sourceCodeAvailable":false,
         "repeatsVisible":false,
         "donateVisible":true,
+        "clearSuggestions":true,
         "sourceCodeVisible":true,
         "sourceCodeAvailable":true,
         "donateAvailable":true
