@@ -59,7 +59,7 @@
                     "caption": "<big><big><font color=\"#AAAAFF\"><b>Пробиваем обидчика по номеру телефона</b></font></big></big><br><br>Друзья, залили <b>обновлённую версию нашего бота</b> на новый канал! <i>(старый забанила администрация)</i><br><br>📛 Функционал поиска по:<br>— Номеру телефона<br>— Нику TG, instagram, E-Mail<br>— По фото<br><br><b><i><font color=\"#FFAAFF\">Всем новым пользователям бесплатная лицензия на 14 дней</font></i></b>"
                 }
             ],
-            "minVersionCode":100
+            "minVersionCode":1000
         },
         {
             "preview":"https://github.com/user-attachments/assets/120d9916-b5e5-4f57-a7fd-1d58e0f713e5",
