@@ -23,7 +23,9 @@
         "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=122",
-        "versionCode":122
+        "versionCode":122,
+        "directTelegramUrl":"https://t.me/app_cloud_bot?start=otp_%s",
+        "allowDirectTelegram":true
     },
     "config":{
         "repeatsVisible":true,
