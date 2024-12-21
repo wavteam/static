@@ -28,8 +28,8 @@
         "allowDirectTelegram":true
     },
     "config":{
-        "rewriteAppName":"хуембер",
-        "telegramTitle":"Testing",
+        "rewriteAppName":"Bomber 3",
+        "telegramTitle":"это тестирование, пожалуйста выключите его зажав бомбу на главном экране",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "repeatsVisible":false,
