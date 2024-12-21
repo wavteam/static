@@ -28,8 +28,8 @@
         "allowDirectTelegram":true
     },
     "config":{
-        "rewriteAppName":"Bomber 3",
-        "telegramTitle":"это тестирование, пожалуйста выключите его зажав бомбу на главном экране, и можете не писать в чат по этому поводу",
+        "rewriteAppName":"Bomber",
+        "telegramTitle":"testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "repeatsVisible":false,
