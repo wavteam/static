@@ -24,7 +24,7 @@
         "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=122",
         "versionCode":122,
-        "directTelegramUrl":"https://t.me/app_cloud_bot?start=otp_%d",
+        "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
         "allowDirectTelegram":true
     },
     "config":{
