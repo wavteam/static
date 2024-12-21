@@ -32,7 +32,7 @@
         "telegramTitle":"testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
-        "repeatsVisible":false,
+        "repeatsVisible":true,
         "donateVisible":true,
         "clearSuggestions":true,
         "sourceCodeVisible":true,
