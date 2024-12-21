@@ -13,16 +13,19 @@
         "url":"https://t.me/+zLLCd4Ne_WQwNjdi",
         "seconds":5
     },
-    "updates": {
-        "important": false,
-        "allowDirect": true,
-        "description": {
-            "_": "<b>Bomber</b> Тестирование OTP<br><a href=\"https://vk.com\">Проблема с обновлением?</a>"
+    "updates":{
+        "important":true,
+        "allowDirect":true,
+        "description":{
+            "ru":"<b>Bomber</b> 1.35<br><br>-  Добавлены сервисы для 🇷🇺 и удалено много нерабочих.<br>- Оптимизация и исправления различных ошибок",
+            "_":"<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
         },
-        "directUrl": "https://gitlab.com/retrocat/bomber-static/-/raw/main/81.apk?inline=false",
-        "onlyDirect": true,
-        "telegramUrl": "https://t.me/app_cloud_bot?start=_",
-        "versionCode": 999
+        "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
+        "onlyDirect":false,
+        "telegramUrl":"https://t.me/app_cloud_bot?start=122",
+        "versionCode":999,
+        "directTelegramUrl":"https://t.me/app_cloud_bot?start=otp_%s",
+        "allowDirectTelegram":true
     },
     "config":{
         "rewriteAppName":"хуембер",
