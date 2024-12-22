@@ -34,7 +34,8 @@
         "donateUrl":"",
         "dripAttackPercentage":4,
         "dripAttackTTL":15,
-        "forceSnowfall":true
+        "forceSnowfall":true,
+        "enableSnowfall":true
     },
     "stories":[
         {
