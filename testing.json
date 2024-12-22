@@ -40,6 +40,48 @@
         "donateAvailable":true
     },
     "stories": [
+         {
+            "preview": "https://github.com/user-attachments/assets/33729dad-090f-4cea-93fa-ae0050ab5b17",
+            "pages": [
+                {
+                    "buttonCaption": "✅ Забрать",
+                    "buttonUrl": "https://t.me/+s1EnpSQLPlAyYmM0",
+                    "image": "https://github.com/user-attachments/assets/8ba07131-eb8d-455d-a342-480389d83b07",
+                    "caption": "<big>📢 <b>Обновили список халявы в бравле<br><font color=\"#FFFF00\"><br>• Пин с белым спреем<br>• Пин клоуна <br>• Пин Мима <br>• Пин Яйца<br>• Иконка Brawl Stars <br>• Иконка Губки Боба <br>• Иконка книги <br>• Иконка со спайком"
+                }
+            ],
+            "minVersionCode":100
+        },
+        {
+            "preview":"https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
+            "minVersionCode": 113,
+            "pages":[
+                {
+                    "image":"https://github.com/user-attachments/assets/77002e03-723e-45a7-8623-9f751c3742fe"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/74c161b7-e540-4b88-a50c-87fe6fd86a64"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/ab361f0c-c238-4123-94f5-4a3ff2669e95"
+                }
+            ]
+        },
+        {
+            "preview":"https://github.com/user-attachments/assets/9d00fee8-77cc-40e1-9587-5cf9c933b189",
+            "minVersionCode": 113,
+            "pages":[
+                {
+                    "image":"https://github.com/user-attachments/assets/5107a157-ccab-4236-bcaa-85c099251a3e"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/7945b016-01a3-4151-ad74-a66ec88ec207"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/8dad0e57-227f-4ce3-88b9-0f1339be829e"
+                }
+            ]
+        },
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "pages": [
