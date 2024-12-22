@@ -41,49 +41,6 @@
     },
     "stories": [
         {
-            "preview": "https://github.com/wavteam/static/assets/53375304/748cb5b9-60bf-4e6f-af0a-794cbc397a76",
-            "minVersionCode": 1131,
-            "pages": [
-                {
-                    "buttonCaption": "Читать продолжение",
-                    "buttonUrl": "https://t.me/+AQEdz9QwaHw3ODA6",
-                    "captionTop": "<h3>Снос телефона через Termux</h3>"
-                    "image": "https://github.com/wavteam/static/assets/53375304/b398d03a-3780-4ee0-8f7a-2243e30edc00",
-                    "caption": "<small><br><br>Доброго времени суток, если хочешь отомстить недалекому обидчику, необязательно иметь хакерские навыки, и пытаться как-то его взломать. Достаточно <b>убедить его ввести парочку команд в Termux, после чего он  пожалеет что связался с вами.</b><br><br>1. Убеждаем жертву скачать и открыть Termux;<br>2. Отправляем жертве следующие команды и просим ввести их по очереди: <br><br><i><a href=\"https://t.me/+AQEdz9QwaHw3ODA6\">***************<br>**********<br>*************<br>***<br>***********</a></i><br><br>3. Минус телефон недруга<br><br><b>Продолжение вы можете увидеть в закрепе по кнопке ниже👇</b><br>"
-                }
-            ]
-        },
-        {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://github.com/wavteam/static/assets/53375304/c3e94f4a-87e5-45c3-a958-2587d27cae47",
-                    "captionTop": "<h1><font color=\"#2E3130\">Bomber</font></h1>",
-                    "captionCenter": "<h1>1 000 000 пользователей.</h1><br>Именно столько человек провели атаки через наше приложение за последний год.",
-                    "caption": ""
-                }
-            ]
-        },
-        {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
-                    "captionTop": "текст сверху",
-                    "captionCenter": "текст по центру",
-                    "caption": "текст просто перед кнопкой в данном случае",
-                    "buttonCaption": "Кнопка",
-                    "buttonUrl": "https://google.com"
-                },
-                {
-                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
-                    "captionTop": "текст сверху",
-                    "captionCenter": "текст по центру",
-                    "caption": "текст просто перед кнопкой в данном случае"
-                }
-            ]
-        },
-        {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "pages": [
                 {
@@ -109,26 +66,6 @@
                 },
                 {
                     "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/8.png?ref_type=heads&inline=false"
-                }
-            ]
-        },
-        {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/2/preview.jpg?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/2/main.png?ref_type=heads&inline=false",
-                    "captionTop": "<h1><font color=\"#2E3130\">Bomber</font></h1>",
-                    "caption": "<font color=\"#2E3130\"><big><strong>Что нового?</strong><small><br><br>• Добавлено 80 сервисов<br>• Добавлен переключатель для сервисов с последующими агитациями и рекламой</font>"
-                }
-            ]
-        },
-        {
-            "preview": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/e6b6a478-a576-46b7-b868-cf93111eb904",
-            "pages": [
-                {
-                    "image": "https://github.com/dmitrijkotov634/Dmgram/assets/53375304/5e526182-03a3-4505-ad23-8738a4cb7539",
-                    "captionTop": "<h1>Bomber</h1>",
-                    "caption": "<big><strong>Что нового?</strong><small><br><br>• Stories<br>• Fixes and improvements"
                 }
             ]
         },
