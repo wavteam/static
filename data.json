@@ -32,8 +32,8 @@
         "donateAvailable":false,
         "sourceCodeAvailable":false,
         "donateUrl":"",
-        "dripAttackPercentage":4,
-        "dripAttackTTL":15,
+        "dripAttackPercentage":25,
+        "dripAttackTTL":5,
         "forceSnowfall":false,
         "enableSnowfall":true
     },
