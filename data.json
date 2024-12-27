@@ -138,6 +138,7 @@
             ]
         },
         {
+            "id":"schedule",
             "preview":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
             "minVersionCode": 113,
             "pages":[
@@ -183,6 +184,7 @@
             ]
         },
         {
+            "id":"spamsafe",
             "preview":"https://github.com/dmitrijkotov634/android-bomber/assets/53375304/80862f63-72cf-4be5-882d-c03d89c1e229",
             "minVersionCode": 113,
             "pages":[
