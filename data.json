@@ -35,7 +35,8 @@
         "dripAttackPercentage":25,
         "dripAttackTTL":5,
         "forceSnowfall":false,
-        "enableSnowfall":true
+        "enableSnowfall":true,
+        "siteBaselineStoriesVersionCode":122
     },
     "stories":[
         {
