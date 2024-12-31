@@ -53,20 +53,20 @@
             ]
         },
         {
-            "id":"2025",
-            "preview":"https://github.com/user-attachments/assets/e94ab5d8-efef-46f2-98ee-ea9b8fca8fae",
+            "id": "2025",
+            "preview": "https://github.com/user-attachments/assets/e94ab5d8-efef-46f2-98ee-ea9b8fca8fae",
             "minVersionCode": 113,
-            "pages":[
+            "pages": [
                 {
-                    "image":"https://github.com/user-attachments/assets/4859c6f0-38e5-4d9b-aa9b-1b237c370dca"
+                    "image": "https://github.com/user-attachments/assets/4859c6f0-38e5-4d9b-aa9b-1b237c370dca"
                 },
                 {
-                    "image":"https://github.com/user-attachments/assets/33e80937-c029-406e-97aa-dcd3c597208f"б
+                    "image": "https://github.com/user-attachments/assets/33e80937-c029-406e-97aa-dcd3c597208f",
                     "buttonCaption": "Скачать",
                     "buttonUrl": "https://t.me/app_cloud_bot?start=124"
                 },
                 {
-                    "image":"https://github.com/user-attachments/assets/da5c586b-ff5e-4a91-9739-6e7fbdf3b0cd",
+                    "image": "https://github.com/user-attachments/assets/da5c586b-ff5e-4a91-9739-6e7fbdf3b0cd",
                     "buttonCaption": "Открыть",
                     "buttonUrl": "https://t.me/aminfbot"
                 }
