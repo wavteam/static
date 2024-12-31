@@ -20,10 +20,10 @@
             "ru": "<b>Bomber</b> 1.35<br><br>-  Добавлены сервисы для 🇷🇺 и удалено много нерабочих.<br>- Оптимизация и исправления различных ошибок",
             "_": "<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
         },
-        "directUrl": "https://github.com/wavteam/static/raw/main/122.apk",
-        "onlyDirect": false,
+        "directUrl": "https://github.com/wavteam/static/raw/main/124.apk",
+        "onlyDirect": true,
         "telegramUrl": "https://t.me/app_cloud_bot?start=122",
-        "versionCode": 122,
+        "versionCode": 124,
         "directTelegramUrl": "https://t.me/app_cloud_bot?start=ota_%d",
         "allowDirectTelegram": true
     },
