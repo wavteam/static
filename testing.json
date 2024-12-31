@@ -50,7 +50,7 @@
                     "caption": "<big>📢 <b>Обновили список халявы в бравле<br><font color=\"#FFFF00\"><br>• Пин с белым спреем<br>• Пин клоуна <br>• Пин Мима <br>• Пин Яйца<br>• Иконка Brawl Stars <br>• Иконка Губки Боба <br>• Иконка книги <br>• Иконка со спайком"
                 }
             ],
-            "minVersionCode":100
+            "minVersionCode":1100
         },
         {
             "preview":"https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
@@ -69,7 +69,7 @@
         },
         {
             "preview":"https://github.com/user-attachments/assets/9d00fee8-77cc-40e1-9587-5cf9c933b189",
-            "minVersionCode": 113,
+            "minVersionCode": 1113,
             "pages":[
                 {
                     "image":"https://github.com/user-attachments/assets/5107a157-ccab-4236-bcaa-85c099251a3e"
