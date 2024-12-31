@@ -63,12 +63,12 @@
                 {
                     "image":"https://github.com/user-attachments/assets/33e80937-c029-406e-97aa-dcd3c597208f"б
                     "buttonCaption": "Скачать",
-                    "buttonUrl": "https://t.me/app_cloud_bot?start=124",
+                    "buttonUrl": "https://t.me/app_cloud_bot?start=124"
                 },
                 {
                     "image":"https://github.com/user-attachments/assets/da5c586b-ff5e-4a91-9739-6e7fbdf3b0cd",
                     "buttonCaption": "Открыть",
-                    "buttonUrl": "https://t.me/aminfbot",
+                    "buttonUrl": "https://t.me/aminfbot"
                 }
             ]
         },
