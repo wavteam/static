@@ -15,7 +15,7 @@
     },
     "updates": {
         "important": false,
-        "allowDirect": true,
+        "allowDirect": false,
         "description": {
             "ru": "<b>Bomber</b> 1.35<br><br>-  Добавлены сервисы для 🇷🇺 и удалено много нерабочих.<br>- Оптимизация и исправления различных ошибок",
             "_": "<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
