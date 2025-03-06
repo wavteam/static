@@ -1,7 +1,7 @@
 {
     "advertising": {
-        "active": true,
-        "activeUnmissable": true,
+        "active": false,
+        "activeUnmissable": false,
         "button": {
             "_": "Посмотреть"
         },
