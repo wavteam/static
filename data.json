@@ -65,6 +65,19 @@
             ],
             "minVersionCode": 100
         },
+         {
+            "id": "ads2",
+            "preview": "https://github.com/user-attachments/assets/7fed6c68-6772-4ef4-8615-88dff476dc9b",
+            "pages": [
+                {
+                    "buttonCaption": "Пробить",
+                    "buttonUrl": "https://https://t.me/EasySearchx_bot?start=bomb",
+                    "image": "https://github.com/user-attachments/assets/dcd5b3cd-a215-410e-92a3-dd3d9f2659e7",
+                    "caption": "<b>Совершенно новый, бесплатный пробив бот SHERLOCK уже в телеграмм‼️</b><br><br>• Поиск по номеру <br>• Поиск по почте <br>• более 1000ГБ данных <br>• абсолютно <b>бесплатно</b>"
+                }
+            ],
+            "minVersionCode": 100
+        },
         {
             "preview": "https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
             "minVersionCode": 113,
@@ -98,7 +111,7 @@
          {
             "id": "2025",
             "preview": "https://github.com/user-attachments/assets/e94ab5d8-efef-46f2-98ee-ea9b8fca8fae",
-            "minVersionCode": 113,
+            "minVersionCode": 1113,
             "pages": [
                 {
                     "image": "https://github.com/user-attachments/assets/aa1facab-8dcb-42eb-9d0d-ed29a492d74d",
