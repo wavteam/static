@@ -86,7 +86,7 @@
             "pages": [
                 {
                     "buttonCaption": "Настроить",
-                    "buttonAction": "OPEN_DEFAULT_APPS_SETTINGS",
+                    "buttonPerformAction": "OPEN_DEFAULT_APPS_SETTINGS",
                     "image": "https://github.com/user-attachments/assets/05e2780e-4b3b-40a2-a99d-d52c743c5506",
                     "caption": ""
                 }
