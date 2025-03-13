@@ -28,6 +28,8 @@
         "allowDirectTelegram": true
     },
     "config": {
+        "telegramUrl":"https://t.me/+aeacGNbqlB0yMjQy",
+        "subscribeChannelUrl":"https://t.me/+WxyXQLKwOZwwNTAy",
         "repeatsVisible": true,
         "donateAvailable": false,
         "sourceCodeAvailable": false,
