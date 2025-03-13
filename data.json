@@ -36,6 +36,7 @@
         "dripAttackTTL": 5,
         "forceSnowfall": false,
         "enableSnowfall": false,
+        "callsVisible": false,
         "siteBaselineStoriesVersionCode": 122
     },
     "stories": [
