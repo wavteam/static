@@ -40,7 +40,6 @@
         "forceSnowfall": false,
         "enableSnowfall": false,
         "disableSnowfall": true,
-        "callsVisible": false,
         "siteBaselineStoriesVersionCode": 122
     },
     "stories": [
