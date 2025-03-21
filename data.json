@@ -35,12 +35,18 @@
         "donateAvailable": false,
         "sourceCodeAvailable": false,
         "donateUrl": "",
-        "dripAttackPercentage": 25,
-        "dripAttackTTL": 5,
+        "siteBaselineStoriesVersionCode": 122,
         "forceSnowfall": false,
         "enableSnowfall": false,
         "disableSnowfall": true,
-        "siteBaselineStoriesVersionCode": 122
+    },
+    "attack": {
+        "delayPerService": 1000
+    },
+    "settings": {
+        "forceSnowfall": false,
+        "enableSnowfall": false,
+        "disableSnowfall": true,
     },
     "stories": [
         {
