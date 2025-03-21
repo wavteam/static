@@ -38,14 +38,14 @@
         "siteBaselineStoriesVersionCode": 122,
         "forceSnowfall": false,
         "enableSnowfall": false,
-        "disableSnowfall": true,
+        "disableSnowfall": true
     },
     "attack": {
         "delayPerService": 1000
     },
     "settings": {
         "enableSnowfall": false,
-        "disableSnowfall": true,
+        "disableSnowfall": true
     },
     "stories": [
         {
