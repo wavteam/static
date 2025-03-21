@@ -53,6 +53,22 @@
             "minSdk": 24,
             "minVersionCode": 125
         },
+         {
+            "id": "schedule",
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "minVersionCode": 113,
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                }
+            ]
+        },
         {
             "preview":"https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
             "active":false,
