@@ -40,6 +40,20 @@
         "donateAvailable":true
     },
     "stories": [
+         {
+            "id": "callerid",
+            "preview": "https://github.com/user-attachments/assets/5421ba44-4e1b-47c5-8eee-bbf546049c5f",
+            "pages": [
+                {
+                    "buttonCaption": "Настроить",
+                    "buttonPerformAction": "OPEN_DEFAULT_APPS_SETTINGS",
+                    "image": "https://github.com/user-attachments/assets/05e2780e-4b3b-40a2-a99d-d52c743c5506",
+                    "caption": ""
+                }
+            ],
+            "minSdk": 24,
+            "minVersionCode": 125
+        },
         {
             "preview":"https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
             "minVersionCode": 113,
