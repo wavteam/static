@@ -43,6 +43,12 @@
         "enableSnowfall": false,
         "disableSnowfall": true
     },
+    "vip_users": [
+        "4248a96893397f45a20a973de4c9d771",
+        "4cf5c3a41d14514c85c333514c28d2b9",
+        "c1cfa90c98905dcfd1cdf145ece969a5",
+        "5db6bbb8da41370948082d7d18bd2581"
+    ]
     "stories": [
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/78bc91a2-738c-4da1-91f7-56d95763406f",
