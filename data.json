@@ -44,7 +44,6 @@
         "delayPerService": 1000
     },
     "settings": {
-        "forceSnowfall": false,
         "enableSnowfall": false,
         "disableSnowfall": true,
     },
