@@ -28,6 +28,7 @@
         "allowDirectTelegram": true
     },
     "config": {
+        "rewriteAppName": "Test",
         "autoAcceptSubscribeChannel": true,
         "telegramUrl":"https://t.me/+aeacGNbqlB0yMjQy",
         "subscribeChannelUrl":"https://t.me/+WxyXQLKwOZwwNTAy",
