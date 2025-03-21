@@ -35,11 +35,7 @@
         "repeatsVisible": true,
         "donateAvailable": false,
         "sourceCodeAvailable": false,
-        "donateUrl": "",
-        "siteBaselineStoriesVersionCode": 122,
-        "forceSnowfall": false,
-        "enableSnowfall": false,
-        "disableSnowfall": true
+        "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
         "delayPerService": 1000
