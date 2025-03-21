@@ -72,6 +72,7 @@
         {
             "preview":"https://github.com/user-attachments/assets/9d00fee8-77cc-40e1-9587-5cf9c933b189",
             "minVersionCode": 1113,
+            "active":false,
             "pages":[
                 {
                     "image":"https://github.com/user-attachments/assets/5107a157-ccab-4236-bcaa-85c099251a3e"
@@ -86,6 +87,7 @@
         },
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "active":false,
             "pages": [
                 {
                     "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/1.png?ref_type=heads&inline=false"
