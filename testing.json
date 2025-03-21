@@ -23,13 +23,12 @@
         "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=122",
-        "versionCode":999,
+        "versionCode":0,
         "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
         "allowDirectTelegram":true
     },
     "config":{
         "rewriteAppName":"Bomber",
-        "telegramTitle":"testing",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "repeatsVisible":true,
