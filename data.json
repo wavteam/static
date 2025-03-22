@@ -36,7 +36,9 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "delayPerService": 1000
+        "dripAttackTTL": 10,
+        "dripAttackPercentage": 1,
+        "delayPerService": 1100
     },
     "settings": {
         "enableSnowfall": false,
