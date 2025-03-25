@@ -37,8 +37,7 @@
     },
     "attack": {
         "dripAttackTTL": 10,
-        "dripAttackPercentage": 1,
-        "delayPerService": 1100
+        "dripAttackPercentage": 1
     },
     "settings": {
         "enableSnowfall": false,
