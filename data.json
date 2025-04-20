@@ -11,7 +11,7 @@
         },
         "image": "https://i.ibb.co/JWhmLyg4/20250420-030628.png",
         "url": "https://t.me/EasySearchx_bot?start=bomb",
-        "seconds": 7
+        "seconds": 4
     },
     "updates": {
         "important": true,
@@ -36,7 +36,7 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "dripAttackTTL": 10,
+        "dripAttackTTL": 15,
         "dripAttackPercentage": 1
     },
     "settings": {
