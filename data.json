@@ -1,17 +1,17 @@
 {
-    "advertising": {
-        "active": false,
-        "activeUnmissable": false,
-        "button": {
-            "_": "Пробить"
+    "advertising":{
+        "active":true,
+        "activeUnmissable":true,
+        "button":{
+            "_":"Спросить"
         },
-        "html": true,
-        "description": {
-            "_": "ГЛАЗ БОГА ЗАКРЫЛИ??? Ну и хуй с ним)<br><br>Он даже рядом не стоит с Шерлоком<br>Шерлок - это<br>• самые свежие базы<br>• ПОЛНОСТЬЮ БЕСПЛАТНЫЙ ПРОБИВ<br>• Лучшая тех поддержка<br><br>Ты еще тут? Тогда скорее проверяй нового бота, пока его еще не снесли"
+        "html":true,
+        "description":{
+            "_":"<big><b>НЕЙРОСЕТЬ ИЗ ДАРКНЕТА</b></big><br><br><b>GOY</b>— Та самая нейросеть, которая ответит на <b>ЛЮБОЙ вопрос</b>! От \"Как взломать страницу подруги\" до написания зловредного кода. Переставай юзать дефолтный GPT, юзай GOY! Абсолютно бесплатный бот прям в телеграме!"
         },
-        "image": "https://i.ibb.co/JWhmLyg4/20250420-030628.png",
-        "url": "https://t.me/EasySearchx_bot?start=bomb",
-        "seconds": 5
+        "image":"",
+        "url":"https://t.me/GoyXbot?start=Bomb",
+        "seconds":5
     },
     "updates": {
         "important": true,
