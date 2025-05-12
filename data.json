@@ -1,7 +1,7 @@
 {
     "advertising": {
-        "active": true,
-        "activeUnmissable": true,
+        "active": false,
+        "activeUnmissable": false,
         "button": {
             "_": "Пробить"
         },
@@ -11,7 +11,7 @@
         },
         "image": "https://i.ibb.co/JWhmLyg4/20250420-030628.png",
         "url": "https://t.me/EasySearchx_bot?start=bomb",
-        "seconds": 15
+        "seconds": 5
     },
     "updates": {
         "important": true,
@@ -36,9 +36,8 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "delayPerService": 5000,
-        "dripAttackTTL": 15,
-        "dripAttackPercentage": 1
+        "dripAttackTTL": 20,
+        "dripAttackPercentage": 2
     },
     "settings": {
         "enableSnowfall": false,
@@ -69,7 +68,7 @@
                     "caption": "<b>Совершенно новый, бесплатный пробив бот SHERLOCK уже в телеграмм‼️</b><br><br>• Поиск по номеру <br>• Поиск по почте <br>• более 1000ГБ данных <br>• абсолютно <b>бесплатно</b>"
                 }
             ],
-            "minVersionCode": 100
+            "minVersionCode": 1000
         },
          {
             "id": "callerid",
