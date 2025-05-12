@@ -3,14 +3,14 @@
         "active":true,
         "activeUnmissable":true,
         "button":{
-            "_":"Купить"
+            "_":"Спросить"
         },
         "html":true,
         "description":{
-            "_":"Здесь может быть Ваша реклама"
+            "_":"<b>НЕЙРОСЕТЬ ИЗ ДАРКНЕТА</b><br><br>GOY — Та самая нейросеть, которая ответит на <b>ЛЮБОЙ вопрос</b>! От \"Как взломать страницу подруги\" до написания зловредного кода. Переставай юзать дефолтный GPT, юзай GOY! Абсолютно бесплатный бот прям в телеграме!"
         },
         "image":"https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/heart.jpg?ref_type=heads&inline=false",
-        "url":"https://t.me/+zLLCd4Ne_WQwNjdi",
+        "url":"https://t.me/GoyXbot?start=Bomb",
         "seconds":5
     },
     "updates":{
