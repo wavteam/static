@@ -41,7 +41,8 @@
     },
     "settings": {
         "enableSnowfall": false,
-        "disableSnowfall": true
+        "disableSnowfall": true,
+        "dropSuggestions": true
     },
     "stories": [
         {
@@ -127,25 +128,15 @@
             ]
         },
          {
-            "id": "2025",
+            "id": "search",
             "preview": "https://github.com/user-attachments/assets/e94ab5d8-efef-46f2-98ee-ea9b8fca8fae",
-            "minVersionCode": 1113,
+            "minVersionCode": 100,
             "pages": [
-                {
-                    "image": "https://github.com/user-attachments/assets/aa1facab-8dcb-42eb-9d0d-ed29a492d74d",
-                    "caption": "<font color=\"#1B1B1B\">🎄 <strong>С наступающим 2025 годом!</strong> Огромное спасибо за вашу активность и поддержку в уходящем году! 🔥<br><br><strong>В честь праздника у нас есть несколько подарков для вас!</strong> В новом году нас ждут новые возможности и интересные обновления, и мы постараемся удивить вас еще больше. <strong>Желаем вам успехов и достижений в 2025 году!</strong> ❤️<br><br>Спасибо, что остаетесь с нами! ☃️</font>"
-                },
-                {
-                    "image": "https://github.com/user-attachments/assets/c62c977d-19d5-45b6-a7d7-02ef4891950a",
-                    "captionTop": "<font color=\"#1B1B1B\"><big><big><big><strong>Bomber</strong></big></big><br><br>• Добавлена история атак, внесены некоторые исправления и улучшения</font>",
-                    "buttonCaption": "Скачать",
-                    "buttonUrl": "https://t.me/app_cloud_bot?start=124"
-                },
                 {
                     "image": "https://github.com/user-attachments/assets/f44508ac-cdf4-4d23-b78f-d04612429b2a",
                     "captionTop": "<font color=\"#1B1B1B\"><big><big><big><strong>My Info</strong></big></big><br><br>• До конца новогодних праздников доступно 100 запросов в сутки</font>",
                     "buttonCaption": "Поиск",
-                    "buttonUrl": "https://t.me/aminfbot"
+                    "buttonUrl": "https://t.me/yoinfobot"
                 }
             ]
         },
