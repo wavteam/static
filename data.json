@@ -129,12 +129,12 @@
         },
          {
             "id": "search",
-            "preview": "https://github.com/user-attachments/assets/e94ab5d8-efef-46f2-98ee-ea9b8fca8fae",
+            "preview": "https://github.com/user-attachments/assets/d920433d-a74e-4cc0-b45b-3fd3ad81b0ea",
             "minVersionCode": 100,
             "pages": [
                 {
                     "image": "https://github.com/user-attachments/assets/f44508ac-cdf4-4d23-b78f-d04612429b2a",
-                    "captionTop": "<font color=\"#1B1B1B\"><big><big><big><strong>My Info</strong></big></big><br><br>• До конца новогодних праздников доступно 100 запросов в сутки</font>",
+                    "captionTop": "<font color=\"#1B1B1B\"><big><big><big><strong>My Info</strong></big></big><br><br>• Доступно 100 запросов в сутки</font>",
                     "buttonCaption": "Поиск",
                     "buttonUrl": "https://t.me/yoinfobot"
                 }
