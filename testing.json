@@ -34,8 +34,6 @@
         "repeatsVisible":true,
         "donateVisible":true,
         "clearSuggestions":true,
-        "sourceCodeVisible":true,
-        "sourceCodeAvailable":true,
         "donateAvailable":true
     },
     "stories": [
