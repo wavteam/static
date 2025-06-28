@@ -7,7 +7,7 @@
         },
         "html":true,
         "description":{
-            "_":"<b>Бесплатная поисковая система в Telegram</b><br><br>• Поиск по номеру <br>• Поиск по почте"
+            "_":"<big><b>Бесплатная поисковая система в Telegram</b>"
         },
         "image":"https://i.ibb.co/d40srT54/IMG.jpg",
         "url":"https://t.me/ahinfobot",
