@@ -1,7 +1,7 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":false,
+        "activeUnmissable":true,
         "button":{
             "_":"Найти по номеру"
         },
@@ -11,7 +11,7 @@
         },
         "image":"https://i.ibb.co/d40srT54/IMG.jpg",
         "url":"https://t.me/ahinfobot",
-        "seconds":3
+        "seconds":1
     },
     "updates": {
         "important": true,
@@ -36,13 +36,13 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "dripAttackTTL": 20,
-        "dripAttackPercentage": 2
+        "dripAttackTTL": 30,
+        "dripAttackPercentage": 1
     },
     "settings": {
-        "enableSnowfall": false,
-        "disableSnowfall": true,
-        "dropSuggestions": true
+        "dropSuggestions": true,
+        "forceDisableBrowserAttacks": true,
+        "forceDisableCallCenters": true
     },
     "stories": [
         {
