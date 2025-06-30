@@ -40,9 +40,7 @@
         "dripAttackPercentage": 1
     },
     "settings": {
-        "dropSuggestions": true,
-        "forceDisableBrowserAttacks": true,
-        "forceDisableCallCenters": true
+        "dropSuggestions": true
     },
     "stories": [
         {
