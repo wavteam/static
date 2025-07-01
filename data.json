@@ -3,14 +3,14 @@
         "active":true,
         "activeUnmissable":true,
         "button":{
-            "_":"Найти по номеру"
+            "_":"Обезопась себя"
         },
         "html":true,
         "description":{
-            "_":"<big><b>Бесплатная поисковая система в Telegram</b>"
+            "_":"<big><b>Канал по кибербезопасности</b>"
         },
-        "image":"https://i.ibb.co/d40srT54/IMG.jpg",
-        "url":"https://t.me/ahinfobot",
+        "image":"https://i.ibb.co/zWy170Yb/IMG-20250701-161532-171.jpg",
+        "url":"https://t.me/+56J0e3LHeYY3M2Y6",
         "seconds":1
     },
     "updates": {
