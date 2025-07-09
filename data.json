@@ -141,7 +141,7 @@
          {
             "id": "search",
             "preview": "https://i.ibb.co/0Vqy8hC4/image.png",
-            "minVersionCode": 100,
+            "minVersionCode": 1000,
             "pages": [
                 {
                     "image": "https://github.com/user-attachments/assets/f44508ac-cdf4-4d23-b78f-d04612429b2a",
