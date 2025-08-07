@@ -15,7 +15,7 @@
     },
     "updates": {
         "important": true,
-        "allowDirect": false,
+        "allowDirect": true,
         "description": {
             "_": "<b>Bomber</b> 1.37<br><br>• Добавлены 25 сервисов для 🇷🇺🇺🇦<br>• Оптимизация и исправления различных ошибок<br>• Новый дизайн приложения"
         },
