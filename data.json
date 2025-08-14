@@ -36,7 +36,7 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "dripAttackTTL": 30,
+        "dripAttackTTL": 2,
         "dripAttackPercentage": 1
     },
     "settings": {
