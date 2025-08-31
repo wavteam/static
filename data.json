@@ -14,8 +14,8 @@
         "seconds":1
     },
     "updates": {
-        "important": true,
-        "allowDirect": true,
+        "important": false,
+        "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.37<br><br>• Добавлены 25 сервисов для 🇷🇺🇺🇦<br>• Оптимизация и исправления различных ошибок<br>• Новый дизайн приложения"
         },
@@ -36,10 +36,12 @@
         "siteBaselineStoriesVersionCode": 122
     },
     "attack": {
-        "dripAttackTTL": 5,
-        "dripAttackPercentage": 1
+        "dripAttackTTL": 30,
+        "dripAttackPercentage": 5,
+        "maxChunkSize":3
     },
     "settings": {
+        "forceDisableBrowserAttacks": true,
         "dropSuggestions": true
     },
     "stories": [
