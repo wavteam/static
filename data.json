@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":true,
+        "active":false,
         "activeUnmissable":false,
         "button":{
             "_":"Обезопась себя"
