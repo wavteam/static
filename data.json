@@ -38,7 +38,8 @@
     "attack": {
         "dripAttackTTL": 30,
         "dripAttackPercentage": 5,
-        "maxChunkSize":3
+        "maxChunkSize":3,
+        "delayPerService": 1000
     },
     "settings": {
         "forceDisableBrowserAttacks": true,
