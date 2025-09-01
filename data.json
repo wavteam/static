@@ -37,8 +37,7 @@
     },
     "attack": {
         "dripAttackTTL": 30,
-        "dripAttackPercentage": 5,
-        "delayPerService": 500
+        "dripAttackPercentage": 5
     },
     "settings": {
         "forceDisableBrowserAttacks": true
