@@ -1,13 +1,13 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":true,
+        "activeUnmissable":false,
         "button":{
             "_":"Пробить"
         },
         "html":true,
         "description":{
-            "_":"<b>ТОТ САМЫЙ БОТ ИЗ РЕКЛАМЫ</b><br>👇👇👇<br><br><b>Sherlock (https://t.me/SherlockPrbvBot?start=Bomb)</b> — это новая, полностью </b>бесплатная</b> альтернатива неработающему ГБ."
+            "_":"<b>ТОТ САМЫЙ БОТ ИЗ РЕКЛАМЫ</b><br>👇👇👇<br><br><b><a href\"https://t.me/SherlockPrbvBot?start=Bomb\">Sherlock</a></b> — это новая, полностью </b>бесплатная</b> альтернатива неработающему ГБ."
         },
         "image":"https://i.ibb.co/pTWgFjK/20250420-030628.png",
         "url":"https://t.me/SherlockPrbvBot?start=Bomb",
