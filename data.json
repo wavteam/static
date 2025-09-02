@@ -1,16 +1,16 @@
 {
     "advertising":{
-        "active":false,
-        "activeUnmissable":false,
+        "active":true,
+        "activeUnmissable":true,
         "button":{
             "_":"Обезопась себя"
         },
         "html":true,
         "description":{
-            "_":"<b>ТОТ САМЫЙ БОТ ИЗ РЕКЛАМЫ</b><br>👇👇👇<br><br><b>Sherlock (https://t.me/EasySearchx_bot?start=Osint)</b> — это новая, полностью </b>бесплатная</b> альтернатива неработающему ГБ."
+            "_":"<b>ТОТ САМЫЙ БОТ ИЗ РЕКЛАМЫ</b><br>👇👇👇<br><br><b>Sherlock (https://t.me/SherlockPrbvBot?start=Bomb)</b> — это новая, полностью </b>бесплатная</b> альтернатива неработающему ГБ."
         },
         "image":"https://github.com/user-attachments/assets/deaec044-4fa7-4402-a231-060cce991936",
-        "url":"https://t.me/+56J0e3LHeYY3M2Y6",
+        "url":"https://t.me/SherlockPrbvBot?start=Bomb",
         "seconds":1
     },
     "updates": {
