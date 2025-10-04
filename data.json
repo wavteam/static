@@ -126,19 +126,6 @@
             ]
         },
          {
-            "id": "easysavemod",
-            "preview": "https://i.ibb.co/wh7gyNrX/P-D-AREST-VO-FRANCII-V-D-2024-GODU.jpg",
-            "minVersionCode": 1000,
-            "pages": [
-                {
-                    "image": "https://i.ibb.co/63mpT6y/PD-ARESTUIUT-VO-FRANCE-V-ZZZV.jpg",
-                    "buttonCaption": "Установить",
-                    "caption":"🔞 Бот позволяет сохранять удаленные, отредактированные и самоуничтожающиеся сообщения, а также деанонить людей в 1 клик<br>",
-                    "buttonUrl": "https://t.me/easysavembot"
-                }
-            ]
-        },
-         {
             "id": "search",
             "preview": "https://i.ibb.co/0Vqy8hC4/image.png",
             "minVersionCode": 100,
