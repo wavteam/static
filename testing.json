@@ -7,10 +7,10 @@
         },
         "html":true,
         "description":{
-            "_":"<big><b>НЕЙРОСЕТЬ ИЗ ДАРКНЕТА</b></big><br><br><b>GOY</b>— Та самая нейросеть, которая ответит на <b>ЛЮБОЙ вопрос</b>! От \"Как взломать страницу подруги\" до написания зловредного кода. Переставай юзать дефолтный GPT, юзай GOY! Абсолютно бесплатный бот прям в телеграме!"
+            "_":"test"
         },
         "image":"",
-        "url":"https://t.me/GoyXbot?start=Bomb",
+        "url":"https://t.me/",
         "seconds":5
     },
     "updates":{
@@ -37,20 +37,6 @@
         "donateAvailable":true
     },
     "stories": [
-         {
-            "id": "callerid",
-            "preview": "https://github.com/user-attachments/assets/5421ba44-4e1b-47c5-8eee-bbf546049c5f",
-            "pages": [
-                {
-                    "buttonCaption": "Настроить",
-                    "buttonPerformAction": "OPEN_DEFAULT_APPS_SETTINGS",
-                    "image": "https://github.com/user-attachments/assets/05e2780e-4b3b-40a2-a99d-d52c743c5506",
-                    "caption": ""
-                }
-            ],
-            "minSdk": 24,
-            "minVersionCode": 125
-        },
          {
             "id": "schedule",
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
