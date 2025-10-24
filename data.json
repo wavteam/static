@@ -56,44 +56,6 @@
                 }
             ]
         },
-         {
-            "id": "ads2",
-            "preview": "https://github.com/user-attachments/assets/38804faa-1bc1-4402-8e19-64305ce6ee37",
-            "pages": [
-                {
-                    "buttonCaption": "Пробить",
-                    "buttonUrl": "https://https://t.me/EasySearchx_bot?start=bomb",
-                    "image": "https://github.com/user-attachments/assets/dcd5b3cd-a215-410e-92a3-dd3d9f2659e7",
-                    "caption": "<b>Совершенно новый, бесплатный пробив бот SHERLOCK уже в телеграмм‼️</b><br><br>• Поиск по номеру <br>• Поиск по почте <br>• более 1000ГБ данных <br>• абсолютно <b>бесплатно</b>"
-                }
-            ],
-            "minVersionCode": 1000
-        },
-         {
-            "id": "callerid",
-            "preview": "https://github.com/user-attachments/assets/5421ba44-4e1b-47c5-8eee-bbf546049c5f",
-            "pages": [
-                {
-                    "buttonCaption": "Настроить",
-                    "buttonPerformAction": "OPEN_DEFAULT_APPS_SETTINGS",
-                    "image": "https://github.com/user-attachments/assets/05e2780e-4b3b-40a2-a99d-d52c743c5506",
-                    "caption": ""
-                }
-            ],
-            "minSdk": 24,
-            "minVersionCode": 125
-        },
-         {
-            "id": "callerid_legacy",
-            "preview": "https://github.com/user-attachments/assets/5421ba44-4e1b-47c5-8eee-bbf546049c5f",
-            "pages": [
-                {
-                    "image": "https://github.com/user-attachments/assets/05e2780e-4b3b-40a2-a99d-d52c743c5506",
-                    "caption": ""
-                }
-            ],
-            "maxVersionCode": 124
-        },
         {
             "active":false,
             "preview": "https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
@@ -107,34 +69,6 @@
                 },
                 {
                     "image": "https://github.com/user-attachments/assets/ab361f0c-c238-4123-94f5-4a3ff2669e95"
-                }
-            ]
-        },
-        {
-            "preview": "https://github.com/user-attachments/assets/9d00fee8-77cc-40e1-9587-5cf9c933b189",
-            "minVersionCode": 1113,
-            "pages": [
-                {
-                    "image": "https://github.com/user-attachments/assets/5107a157-ccab-4236-bcaa-85c099251a3e"
-                },
-                {
-                    "image": "https://github.com/user-attachments/assets/7945b016-01a3-4151-ad74-a66ec88ec207"
-                },
-                {
-                    "image": "https://github.com/user-attachments/assets/8dad0e57-227f-4ce3-88b9-0f1339be829e"
-                }
-            ]
-        },
-         {
-            "id": "search",
-            "preview": "https://i.ibb.co/0Vqy8hC4/image.png",
-            "minVersionCode": 100,
-            "pages": [
-                {
-                    "image": "https://github.com/user-attachments/assets/f44508ac-cdf4-4d23-b78f-d04612429b2a",
-                    "captionTop": "<font color=\"#1B1B1B\"><big><big><big><strong>My Info</strong></big></big><br><br>• Доступно 50 запросов в сутки</font>",
-                    "buttonCaption": "Поиск",
-                    "buttonUrl": "https://botapi-suggest.vercel.app/"
                 }
             ]
         },
