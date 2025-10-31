@@ -1,0 +1,110 @@
+{
+    "advertising":{
+        "active":false,
+        "activeUnmissable":false,
+        "button":{
+            "_":""
+        },
+        "html":true,
+        "description":{
+            "_":""
+        },
+        "image":"",
+        "url":"",
+        "seconds":3
+    },
+    "updates": {
+        "important": true,
+        "allowDirect": true,
+        "description": {
+            "_": "<b>Bomber</b> 1.38<br><br>• Добавлены 20 сервисов для 🇷🇺🇺🇦<br>• Оптимизация и исправления различных ошибок<br>• Новый дизайн приложения"
+        },
+        "directUrl": "https://github.com/wavteam/static/raw/main/135.apk",
+        "onlyDirect": false,
+        "telegramUrl": "https://t.me/app_cloud_bot?start=135",
+        "versionCode": 135,
+        "directTelegramUrl": "https://t.me/app_cloud_bot?start=ota_%d",
+        "allowDirectTelegram": true
+    },
+    "config": {
+        "autoAcceptSubscribeChannel": true,
+        "telegramUrl":"https://t.me/+aeacGNbqlB0yMjQy",
+        "subscribeChannelUrl":"https://t.me/+WxyXQLKwOZwwNTAy",
+        "repeatsVisible": true,
+        "donateAvailable": false,
+        "sourceCodeAvailable": false,
+        "siteBaselineStoriesVersionCode": 122
+    },
+    "attack": {
+        "dripAttackTTL": 30,
+        "dripAttackPercentage": 5
+    },
+    "settings": {
+        "forceDisableBrowserAttacks": true
+    },
+    "stories": [
+        {
+            "preview": "https://github.com/wavteam/static/assets/53375304/78bc91a2-738c-4da1-91f7-56d95763406f",
+            "maxVersionCode": 116,
+            "pages": [
+                {
+                    "buttonCaption": "Обновить",
+                    "buttonUrl": "https://t.me/app_cloud_bot?start=_",
+                    "captionTop": "<h2>Обновление приложения</h2>",
+                    "image": "https://github.com/wavteam/static/assets/53375304/44d0b127-76a4-4cd7-a496-92df0648dce9",
+                    "caption": "<b><a href=\"https://t.me/app_cloud_bot?start=_\">Пожалуйста, обновите приложение для его стабильной работы.</a></b>"
+                }
+            ]
+        },
+        {
+            "active":false,
+            "preview": "https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
+            "minVersionCode": 113,
+            "pages": [
+                {
+                    "image": "https://github.com/user-attachments/assets/77002e03-723e-45a7-8623-9f751c3742fe"
+                },
+                {
+                    "image": "https://github.com/user-attachments/assets/74c161b7-e540-4b88-a50c-87fe6fd86a64"
+                },
+                {
+                    "image": "https://github.com/user-attachments/assets/ab361f0c-c238-4123-94f5-4a3ff2669e95"
+                }
+            ]
+        },
+        {
+            "id": "schedule",
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "minVersionCode": 113,
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                }
+            ]
+        },
+        {
+            "id": "spamsafe",
+            "preview": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/80862f63-72cf-4be5-882d-c03d89c1e229",
+            "minVersionCode": 1113,
+            "pages": [
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/a4caa734-c72a-4a04-9a1f-26b132eeea9b"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/83ac565c-8912-4d2e-a2e2-90d864767def",
+                    "captionTop": "<h3>SMS</h3>В зависимости от смартфона заходим в приложения Сообщения и блокируем все возможные SMS сообщения или глушим их. Включаем также защиту от спама (Если какой то из этих опций нет то качаем <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.messaging\">✉ Google сообщения</a>)"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/3212c5f8-ec5e-4b5b-bca9-d1a11af43dbf",
+                    "captionTop": "<h3>Звонки</h3>Для блокировки звонков можно включить функцию «<strong>Блокировать все неизвестные номера</strong>» или использовать <a href=\"https://f-droid.org/ru/packages/me.lucky.silence/\">Silence</a> для более детальной проверки"
+                }
+            ]
+        }
+    ]
+}
