@@ -33,7 +33,11 @@
         "repeatsVisible": true,
         "donateAvailable": false,
         "sourceCodeAvailable": false,
-        "siteBaselineStoriesVersionCode": 122
+        "siteBaselineStoriesVersionCode": 122,
+        "shareText": "https://bomber.cc",
+        "telegramUrl": "https://t.me/androidsmsbomber",
+        "telegramTitle": "t.me/androidsmsbomber",
+        "subscribeChannelUrl": "https://t.me/androidsmsbomber"
     },
     "attack": {
         "dripAttackTTL": 30,
