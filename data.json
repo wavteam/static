@@ -41,7 +41,7 @@
     },
     "patches": [
         {
-            "hasKey": "139",
+            "hasKey": "1.39",
             "minVersionCode": 140,
             "keys": [
                 {
