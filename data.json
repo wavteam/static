@@ -39,6 +39,19 @@
         "telegramTitle": "t.me/androidsmsbomber",
         "subscribeChannelUrl": "https://t.me/androidsmsbomber"
     },
+    "patches": [
+        {
+            "hasKey": "139",
+            "minVersionCode": 140,
+            "keys": [
+                {
+                    "name": "browser_attacks",
+                    "value": true,
+                    "type": "BOOLEAN"
+                }
+            ]
+        }
+    ]
     "attack": {
         "dripAttackTTL": 30,
         "dripAttackPercentage": 5
