@@ -51,7 +51,7 @@
                 }
             ]
         }
-    ]
+    ],
     "attack": {
         "dripAttackTTL": 30,
         "dripAttackPercentage": 5
