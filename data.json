@@ -47,7 +47,7 @@
                 {
                     "name": "browser_attacks",
                     "value": true,
-                    "type": "boolean"
+                    "type": "BOOLEAN"
                 }
             ]
         }
