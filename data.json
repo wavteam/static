@@ -57,7 +57,8 @@
     ],
     "attack": {
         "dripAttackTTL": 24,
-        "dripAttackPercentage": 1
+        "dripAttackPercentage": 1,
+        "delayPerService": 1000
     },
     "stories": [
         {
