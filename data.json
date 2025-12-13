@@ -56,8 +56,8 @@
         }
     ],
     "attack": {
-        "dripAttackTTL": 30,
-        "dripAttackPercentage": 5
+        "dripAttackTTL": 24,
+        "dripAttackPercentage": 1
     },
     "stories": [
         {
