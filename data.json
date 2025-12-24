@@ -37,9 +37,40 @@
         "shareText": "https://bomber.cc",
         "telegramUrl": "https://t.me/androidsmsbomber",
         "telegramTitle": "t.me/androidsmsbomber",
-        "subscribeChannelUrl": "https://t.me/androidsmsbomber"
+        "subscribeChannelUrl": "https://t.me/androidsmsbomber",
+        "callsVisible": false
     },
     "patches": [
+        {
+            "hasKey": "cd",
+            "keys": [
+                 {
+                    "name": "calls_enabled",
+                    "value": false,
+                    "type": "BOOLEAN"
+                },
+                {
+                    "name": "dead_services",
+                    "value": false,
+                    "type": "BOOLEAN"
+                },
+                {
+                    "name": "fake_attacks",
+                    "value": false,
+                    "type": "BOOLEAN"
+                },
+                {
+                    "name": "testing_enabled",
+                    "value": false,
+                    "type": "BOOLEAN"
+                },
+                {
+                    "name": "browser_debug_enabled",
+                    "value": false,
+                    "type": "BOOLEAN"
+                }
+            ]
+        },
         {
             "hasKey": "141",
             "minVersionCode": 141,
@@ -57,8 +88,7 @@
     ],
     "attack": {
         "dripAttackTTL": 24,
-        "dripAttackPercentage": 1,
-        "delayPerService": 1000
+        "dripAttackPercentage": 1
     },
     "stories": [
         {
