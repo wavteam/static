@@ -14,15 +14,15 @@
         "seconds":3
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": true,
         "description": {
-            "_": "<b>Bomber</b> 1.39<br><br>• Добавлены сервисы для 🇷🇺<br>• Оптимизация и исправления различных ошибок"
+            "_": "<b>Bomber</b> 1.39.1<br><br>• Оптимизация и исправления различных ошибок"
         },
-        "directUrl": "https://github.com/wavteam/static/raw/main/144.apk",
+        "directUrl": "https://github.com/wavteam/static/raw/main/145.apk",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/app_cloud_bot?start=144",
-        "versionCode": 144,
+        "telegramUrl": "https://t.me/app_cloud_bot?start=145",
+        "versionCode": 145,
         "directTelegramUrl": "https://t.me/app_cloud_bot?start=ota_%d",
         "allowDirectTelegram": true
     },
