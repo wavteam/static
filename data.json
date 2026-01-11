@@ -14,7 +14,7 @@
         "seconds":3
     },
     "updates": {
-        "important": false,
+        "important": true,
         "allowDirect": true,
         "description": {
             "_": "<b>Bomber</b> 1.39.1<br><br>• Оптимизация и исправления различных ошибок"
