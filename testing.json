@@ -1,0 +1,135 @@
+{
+    "advertising":{
+        "active":true,
+        "activeUnmissable":true,
+        "button":{
+            "_":"Спросить"
+        },
+        "html":true,
+        "description":{
+            "_":"test"
+        },
+        "image":"",
+        "url":"https://t.me/",
+        "seconds":5
+    },
+    "updates":{
+        "important":true,
+        "allowDirect":true,
+        "description":{
+            "ru":"<b>Bomber</b> 1.35<br><br>-  Добавлены сервисы для 🇷🇺 и удалено много нерабочих.<br>- Оптимизация и исправления различных ошибок",
+            "_":"<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
+        },
+        "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
+        "onlyDirect":false,
+        "telegramUrl":"https://t.me/app_cloud_bot?start=122",
+        "versionCode":0,
+        "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
+        "allowDirectTelegram":true
+    },
+    "config":{
+        "rewriteAppName":"Bomber",
+        "donateAvailable":true,
+        "sourceCodeAvailable":false,
+        "repeatsVisible":true,
+        "donateVisible":true,
+        "clearSuggestions":true,
+        "donateAvailable":true
+    },
+    "stories": [
+         {
+            "id": "schedule",
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "minVersionCode": 113,
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                }
+            ]
+        },
+        {
+            "preview":"https://github.com/user-attachments/assets/4b10921f-d3e3-4089-b8cd-5cf7ed1ba778",
+            "active":false,
+            "minVersionCode": 113,
+            "pages":[
+                {
+                    "image":"https://github.com/user-attachments/assets/77002e03-723e-45a7-8623-9f751c3742fe"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/74c161b7-e540-4b88-a50c-87fe6fd86a64"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/ab361f0c-c238-4123-94f5-4a3ff2669e95"
+                }
+            ]
+        },
+        {
+            "preview":"https://github.com/user-attachments/assets/9d00fee8-77cc-40e1-9587-5cf9c933b189",
+            "minVersionCode": 1113,
+            "active":false,
+            "pages":[
+                {
+                    "image":"https://github.com/user-attachments/assets/5107a157-ccab-4236-bcaa-85c099251a3e"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/7945b016-01a3-4151-ad74-a66ec88ec207"
+                },
+                {
+                    "image":"https://github.com/user-attachments/assets/8dad0e57-227f-4ce3-88b9-0f1339be829e"
+                }
+            ]
+        },
+        {
+            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
+            "active":false,
+            "pages": [
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/1.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/2.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/3.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/4.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/5.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/6.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/7.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/8.png?ref_type=heads&inline=false"
+                }
+            ]
+        },
+        {
+            "preview": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/80862f63-72cf-4be5-882d-c03d89c1e229",
+            "pages": [
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/a4caa734-c72a-4a04-9a1f-26b132eeea9b"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/83ac565c-8912-4d2e-a2e2-90d864767def",
+                    "captionTop": "<h3>SMS</h3>В зависимости от смартфона заходим в приложения Сообщения и блокируем все возможные SMS сообщения или глушим их. Включаем также защиту от спама (Если какой то из этих опций нет то качаем <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.messaging\">✉️ Google сообщения</a>)"
+                },
+                {
+                    "image": "https://github.com/dmitrijkotov634/android-bomber/assets/53375304/3212c5f8-ec5e-4b5b-bca9-d1a11af43dbf",
+                    "captionTop": "<h3>Звонки</h3>Для блокировки звонков можно включить функцию «<strong>Блокировать все неизвестные номера</strong>» или использовать <a href=\"https://f-droid.org/ru/packages/me.lucky.silence/\">Silence</a> для более детальной проверки"
+                }
+            ]
+        }
+    ]
+}
