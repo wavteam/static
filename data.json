@@ -33,7 +33,11 @@
         "sourceCodeAvailable": false,
         "siteBaselineStoriesVersionCode": 122,
         "shareText": "https://bomber.cc",
-        "callsVisible": false
+        "callsVisible": false,
+        "telegramTitle": "@asmsbomber",
+        "telegramUrl": "https://t.me/asmsbomber",
+        "subscribeChannelUrl": "https://t.me/asmsbomber",
+        "enableSubscribeChannel": true
     },
     "patches": [
         {
