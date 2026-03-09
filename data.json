@@ -86,7 +86,7 @@
         }
     ],
     "attack": {
-        "delayPerService":500,
+        "delayPerService":100,
         "dripAttackTTL": 12,
         "dripAttackPercentage": 1
     },
