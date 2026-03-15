@@ -39,6 +39,7 @@
         "subscribeChannelUrl": "https://t.me/asmsbomber",
         "enableSubscribeChannel": true
     },
+    "attack":{"suggestServiceUrl":"https://search-botapi.vercel.app"},
     "patches": [
         {
             "hasKey": "cd",
