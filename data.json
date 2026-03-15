@@ -71,17 +71,10 @@
             ]
         },
         {
-            "hasKey": "141",
+            "hasKey": "ds15",
             "minVersionCode": 141,
             "actions": [
-                "ENABLE_SNOWFALL"
-            ],
-            "keys": [
-                {
-                    "name": "browser_attacks",
-                    "value": true,
-                    "type": "BOOLEAN"
-                }
+                "DISABLE_SNOWFALL"
             ]
         }
     ],
