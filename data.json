@@ -80,9 +80,9 @@
     ],
     "attack": {
         "suggestServiceUrl":"https://search-botapi.vercel.app/api/suggest",
-        "delayPerService":100,
-        "dripAttackTTL": 12,
-        "dripAttackPercentage": 1
+        "delayPerService":0,
+        "dripAttackTTL": 24,
+        "dripAttackPercentage": 2
     },
     "stories": [
         {
