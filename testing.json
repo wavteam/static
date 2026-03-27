@@ -3,14 +3,14 @@
         "active":true,
         "activeUnmissable":true,
         "button":{
-            "_":"Спросить"
+            "_":"✅ Перейти"
         },
         "html":true,
         "description":{
-            "_":"test"
+            "_":"<b>📡 ОБХОДИМ ЗАМЕДЛЕННИЯ И ГЛУШИЛКИ!</b><br><br><big>|</big><b>🎫 Промокод на FREE — BOMBER</><br><br><b>Ускоряем интернет тут👇</b chore>"
         },
-        "image":"",
-        "url":"https://t.me/",
+        "image":"https://raw.githubusercontent.com/wavteam/static/refs/heads/main/test",
+        "url":"https://t.me/VPN19_84BOT?start=utm_WEAVE1",
         "seconds":5
     },
     "updates":{
