@@ -1,5 +1,4 @@
-{
-    "advertising":{
+true  "advertising":{
         "active":true,
         "activeUnmissable":true,
         "button":{
@@ -36,7 +35,7 @@
         "callsVisible": false,
         "telegramUrl": "https://t.me/asmsbomber",
         "subscribeChannelUrl": "https://t.me/asmsbomber",
-        "enableSubscribeChannel": false
+        "enableSubscribeChannel": true
     },
     "patches": [
         {
