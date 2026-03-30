@@ -1,4 +1,5 @@
-true  "advertising":{
+{
+"advertising":{
         "active":true,
         "activeUnmissable":true,
         "button":{
