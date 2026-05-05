@@ -11,7 +11,10 @@
         },
         "image":"https://raw.githubusercontent.com/wavteam/static/refs/heads/main/test",
         "url":"https://t.me/VPN19_84BOT?start=utm_WEAVE1",
-        "seconds":5
+        "seconds":5,
+        "countries":{
+            "380":{"description": "380"}
+        }
     },
     "updates":{
         "important":true,
