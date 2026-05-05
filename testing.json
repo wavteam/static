@@ -13,7 +13,7 @@
         "url":"https://t.me/VPN19_84BOT?start=utm_WEAVE1",
         "seconds":5,
         "countries":{
-            "380":{"description": "380"}
+            "380":{"description": {"_":"380"}}
         }
     },
     "updates":{
