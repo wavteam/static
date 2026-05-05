@@ -39,8 +39,16 @@
         "enableSubscribeChannel": true
     },
     "patches": [
+            {
+                    "hasKey":"ba",
+                    "keys":[
+                            {"name":"browser_attacks",
+                                    "value":false,
+                                    "type":"BOOLEAN"}
+                    ]
+            },
         {
-            "hasKey": "cd",
+            "hasKey": "cd1",
             "keys": [
                  {
                     "name": "calls_enabled",
@@ -70,7 +78,7 @@
             ]
         },
         {
-            "hasKey": "ds15",
+            "hasKey": "ds15_2",
             "minVersionCode": 141,
             "actions": [
                 "DISABLE_SNOWFALL"
