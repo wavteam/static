@@ -40,7 +40,7 @@
    },
    "patches":[
       {
-         "hasKey":"ba",
+         "hasKey":"ba1",
          "keys":[
             {
                "name":"browser_attacks",
