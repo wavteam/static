@@ -14,17 +14,17 @@
       "seconds":4
    },
    "updates":{
-      "important":true,
+      "important":false,
       "allowDirect":true,
       "description":{
          "_":"<b>Bomber</b> 1.41<br><br>• Добавлено 15 сервисов на 🇰🇿🇷🇺<br>• Оптимизация и исправление ошибок<br>• Исправление работы прокси"
       },
       "directUrl":"https://github.com/wavteam/static/raw/main/149.apk",
-      "onlyDirect":false,
+      "onlyDirect":true,
       "telegramUrl":"https://t.me/app_cloud_bot?start=149",
       "versionCode":149,
       "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
-      "allowDirectTelegram":true
+      "allowDirectTelegram":false
    },
    "config":{
       "autoAcceptSubscribeChannel":true,
