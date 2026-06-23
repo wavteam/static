@@ -20,11 +20,11 @@
          "_":"<b>Bomber</b> 1.41<br><br>• Добавлено 15 сервисов на 🇰🇿🇷🇺<br>• Оптимизация и исправление ошибок<br>• Исправление работы прокси"
       },
       "directUrl":"https://github.com/wavteam/static/raw/main/149.apk",
-      "onlyDirect":true,
+      "onlyDirect":false,
       "telegramUrl":"https://t.me/apkcloudbot?start=149",
       "versionCode":149,
       "directTelegramUrl":"https://t.me/apkcloudbot?start=ota_%d",
-      "allowDirectTelegram":true
+      "allowDirectTelegram": true
    },
    "config":{
       "autoAcceptSubscribeChannel":true,
