@@ -1,0 +1,44 @@
+{
+    "advertising":{
+        "active":true,
+        "activeUnmissable":true,
+        "button":{
+            "_":"✅ Перейти"
+        },
+        "html":true,
+        "description":{
+            "_":"<big><b>📡 ОБХОДИМ ЗАМЕДЛЕННИЯ И ГЛУШИЛКИ!</b><br><br></big><font color=\"#ff9999\"><b>🎫 Промокод на FREE — «BOMBER»</font></b><br><br><b>Ускоряем интернет тут👇</b chore>"
+        },
+        "image":"https://raw.githubusercontent.com/wavteam/static/refs/heads/main/test",
+        "url":"https://t.me/VPN19_84BOT?start=utm_WEAVE1",
+        "seconds":5,
+        "countries":{
+            "380":{"description": {"_":"380"}}
+        }
+    },
+    "updates":{
+        "important":true,
+        "allowDirect":true,
+        "description":{
+            "ru":"<b>Bomber</b> 1.35<br><br>",
+            "_":"<b>Bomber</b> 1.35<br><br>"
+        },
+        "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
+        "onlyDirect":false,
+        "telegramUrl":"https://t.me/app_cloud_bot?start=122",
+        "versionCode":0,
+        "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
+        "allowDirectTelegram":true
+    },
+    "config":{
+        "rewriteAppName":"Bomber",
+        "donateAvailable":true,
+        "sourceCodeAvailable":false,
+        "repeatsVisible":true,
+        "donateVisible":true,
+        "clearSuggestions":true,
+        "donateAvailable":true
+    },
+    "stories": [
+    ]
+}
