@@ -20,18 +20,18 @@
         "important":true,
         "allowDirect":true,
         "description":{
-            "ru":"<b>Bomber</b> 1.35<br><br>",
-            "_":"<b>Bomber</b> 1.35<br><br>"
+            "ru":"<b>Bomber</b> 2.0<br><br>",
+            "_":"<b>Bomber</b> 2.0<br><br>"
         },
         "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/app_cloud_bot?start=122",
-        "versionCode":0,
+        "versionCode":500,
         "directTelegramUrl":"https://t.me/app_cloud_bot?start=ota_%d",
         "allowDirectTelegram":true
     },
     "config":{
-        "rewriteAppName":"Bomber",
+        "rewriteAppName":"Bomber2",
         "donateAvailable":true,
         "sourceCodeAvailable":false,
         "repeatsVisible":true,
